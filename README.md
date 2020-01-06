@@ -12,7 +12,7 @@ All folder and files on the root level are Postal folders and files. Basically a
 If you want to run or have a closer look on the prototype, you should go into the PostalDemo folder on open the [PostalDemo.xcodeproj](https://github.com/cfinker/postal-demo-extended-with-authorship-verification/tree/master/PostalDemo/PostalDemo.xcodeproj "PostalDemo.xcodeproj") file with xCode (at least xCode 11 and at least macOS 10.14). Since all dependencies are as well part of this repo (namely its the Postal framework), the project should build and run in xCode without any fruther required commands. It could be that xCode does not recognize on start up that all source code has been translated to Swift 5 and that it will display some warning. You can ignore this warning, and once the index of xCode has finished, it will recognize that there is no reason to warn. 
 
 ## What machine learning is used?
-The app uses Core ML 4. Therefore iOS 13 is required (for on-device training).
+The app uses Core ML 3. Therefore iOS 13 is required (for on-device training).
 It uses uClassify as well, with a daily limit of max. 500 requests per day.
 
 ## Further information and contact
