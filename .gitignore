@@ -36,24 +36,24 @@ Temporary Items
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
 ## Build generated
-build/
-!dependencies/build
-DerivedData/
+#build/
+#!dependencies/build
+#DerivedData/
 
 ## Various settings
-*.pbxuser
-!default.pbxuser
-*.mode1v3
-!default.mode1v3
-*.mode2v3
-!default.mode2v3
-*.perspectivev3
-!default.perspectivev3
-xcuserdata/
+#*.pbxuser
+#!default.pbxuser
+#*.mode1v3
+#!default.mode1v3
+#*.mode2v3
+#!default.mode2v3
+#*.perspectivev3
+#!default.perspectivev3
+#xcuserdata/
 
 ## Other
-*.moved-aside
-*.xcuserstate
+#*.moved-aside
+#*.xcuserstate
 
 ## Obj-C/Swift specific
 *.hmap
@@ -62,14 +62,14 @@ xcuserdata/
 *.dSYM
 
 ## Playgrounds
-timeline.xctimeline
-playground.xcworkspace
+#timeline.xctimeline
+#playground.xcworkspace
 
 # Swift Package Manager
 #
 # Add this line if you want to avoid checking in source code from Swift Package Manager dependencies.
 # Packages/
-.build/
+#.build/
 
 # CocoaPods
 #
