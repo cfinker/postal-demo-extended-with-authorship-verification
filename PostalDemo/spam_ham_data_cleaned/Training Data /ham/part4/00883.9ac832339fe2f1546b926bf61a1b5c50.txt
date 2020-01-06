@@ -1,0 +1,25 @@
+On Wed, 24 Jul 2002 bitbitch@magnesium.net wrote:
+
+> Hey, meybee by then, Bush's grand plan for a missle defense system will
+> actually pan out and -work- ...
+
+Hey, that thing is 2 km across and 28 km/s fast. There's nothing you can
+do just before the impact with a system that was designed to deal with
+tiny ballistic missiles, and largely by damaging them, not destroying
+them. Apart from twiddling with the surface albedo which might be not
+enough -- we currently don't have ion drives with enough power, or at
+least we can't develop and deploy them on time, so that only leaves you
+with nukes. Assymetrical repeated flash-evaporation (anything closer would
+risk fragmenting it) on rocks of unknown composition (could be a pile of
+rubble for all what we know) has never been tried yet, though.
+
+> I'm not holding my breath, but i'm not going to panic for something thats
+> a little under 17 years away, either.
+
+It is much more interesting whether you can kill enough of delta v for a
+capture. But here trying to brake a smaller object (say, few 100 m across)
+with final stage aerobraking would be far more useful. Otoh, one could as
+well could invest that effort into a launch capacity on the Moon.
+
+http://xent.com/mailman/listinfo/fork
+

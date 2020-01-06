@@ -1,0 +1,30 @@
+On Tue 30 Jul 2002 10:28, David Neary wrote:
+
+> I have 3 or 4 email addresses (which get used for different
+> reasons), and I'd prefer not to mix them up. So I was wondering
+> if anyone knows of a way that I can have mail (apart from list
+> mail, which I have already sorted) which arrives to a certain
+> e-mail address have the From: header in the reply automatically
+> set to the address it came to.
+
+I don't know Mutt, to be honest, but the KDE mail client "KMail" can
+do this very neatly - you set up multiple "Identity" profiles, each
+with a distinct email address (and other things if desired, like a GPG
+key and a signature). You can then set up KMail to use various
+identities automatically when replying to messages which match a
+particular pattern, or which are in a particular folder, etc. It's
+all very cool, and it works very nicely.
+
+But I still don't know how to do it in Mutt.
+
+Colm
+
+--
+Colm Buckley | colm@tuatha.org | +353 87 2469146 | www.colm.buckley.name
+A dirty mind is a terrible thing to waste.
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

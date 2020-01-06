@@ -1,0 +1,78 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+SEARCHNETWORKING | Voice over IP Tip
+July 25, 2002
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+FROM OUR SPONSOR:
+Looking for RISK FREE VoIP?
+http://searchNetworking.com/r/0,,4689,00.htm?quintum
+________________________________________________________________
+IN THIS ISSUE | Table of Contents
+
+1. VOIP TIPS
+- Troubleshooting voice
+- VoIP enable your telephony
+- Understanding delay
+
+2. IMPORTANT ANNOUNCEMENTS AND LINKS
+- Network management/VoIP/wireless strategies revealed
+- SearchNetworking Webcast archives
+- Featured Topic: Networks of the future
+- Expert response: Ted Studwell answers your questions
+- Featured book: Microsoft encyclopedia of networking
+____________________________________________________________________
+***********************>> SPONSORED BY QUINTUM > Click here for other Q&As with Ted that you might find useful:
+http://searchnetworking.techtarget.com/ateAnswers/0,289620,sid7_tax292243,00.html
+
+>> Click here to pose your VoIP question to Ted Studwell:
+http://searchnetworking.techtarget.com/ateQuestion/0,289624,sid7_cid466224_tax292243,00.html
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+FEATURED BOOK | SearchNetworking Bookstore
+
+Title: Microsoft encyclopedia of networking
+Author: Mitch Tulloch, and Ingrid Tulloch
+
+Description: This second edition of the award-winning Microsoft
+encyclopedia of networking has been fully updated with thousands of
+entries detailing the latest technologies, standards, products, and
+services. You get clear, concise explanations, including hundreds of
+new articles and diagrams that deftly take you from concept to
+real-world application. You also get the entire encyclopedia on
+CD-ROM, for definitive answers wherever you need them.
+
+>> Click here for ordering information:
+http://www.digitalguru.com/DigitalGuru/product_detail.asp?catalog_name=Books&category_name=&product_id=0735613788&partner_id=65
+
+____________________________________________________________________
+::::::::::::::::::: SEARCHNETWORKING CONTACTS :::::::::::::::::::
+
+SUSAN FOGARTY, Site Editor (sfogarty@techtarget.com)
+>> Send us your suggestions for tips and articles.
+____________________________________________________________________
+
+KARA GATTINE, Assistant Site Editor (kgattine@techtarget.com)
+>> Send your white papers, tips and best Web link recommendations.
+____________________________________________________________________
+
+BETH QUIMBY, News Editor (bquimby@techtarget.com)
+>> Send in your product announcements and poll ideas.
+____________________________________________________________________
+
+GABRIELLE DERUSSY (gderussy@techtarget.com)
+>> Sponsor this or any other TechTarget newsletter.
+____________________________________________________________________
+:::::::::::::::::::: ABOUT THIS NEWSLETTER :::::::::::::::::::::
+Created by TechTarget (http://www.techtarget.com)
+TechTarget - The Most Targeted IT Media
+Copyright 2002, All Rights Reserved.
+
+Unsubscribe from 'Voice Over IP Tips'
+- Simply Reply to this Email with REMOVE within the Body or Subject
+> or
+- Go to: http://searchNetworking.techtarget.com/register
+- Log in to edit your profile.
+- Click on the link to Edit email subscriptions.
+- Uncheck the box next to the newsletter you wish
+to unsubscribe from.
+- When finished, click "Save Changes to My Profile."
+

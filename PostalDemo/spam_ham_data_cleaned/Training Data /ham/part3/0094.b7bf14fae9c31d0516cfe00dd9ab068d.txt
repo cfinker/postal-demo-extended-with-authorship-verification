@@ -1,0 +1,87 @@
+_ _ _____ _ __
+| \ | |_ _| |/ / _ __ __2002-08-30_ o join! mail an empty message to
+| \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\ | | | | . \ | | | | (_) \ v v / o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/ o http://www.ntk.net/
+
+"A case in point is web designer Matt Jones, the man
+responsible for how BBC News Online looked when it launched.
+Since then, he has invented 'warchalking', which he recently
+described as a 'curse'..."
+http://news.bbc.co.uk/1/hi/2210091.stm
+- but you cannot turn against me! I... created you!
+
+>> HARD NEWS <<
+stiffening sinews
+
+More hot summer days in the mailinglist alleyways,
+dangerously empty of sane postings, strewn with the rotting
+carcasses of broiling vacation messages. Hacktress and
+Silicon Valley's chief rat-keeper LILE ELAM, excitedly posts
+about a new open 802.11 network she's found. "I am here at
+the police station waiting to see a judge and I thought I
+would check to see if there is connectivity", she writes,
+somewhat recklessly, to the Bay Area Wireless list. Exit
+the rest of the Wifi community through the nearest window
+and out into the streets... where, cooling tempers, the
+Microsoft Palladium boys are on an endless summer tour,
+reassuring the experts that while, hmm, they *suppose* Pd
+could *theoretically* be used as a Hollywood DRM system,
+they truly have no plans to do any such thing. Cypherpunk
+and friend of freedom Lucky Green hears this; thinks up four
+or five of the obvious Palladium DRM implementations; sends
+them off to be patented in his name. Licensing funds, we
+imagine, will go on cracking his own DRMs. And so the mail
+loops on.
+http://lists.bawug.org/pipermail/wireless/2002-August/008507.html
+- administrivia: HI MOM, I'M IN JAIL
+http://www.mail-archive.com/cryptography@wasabisystems.com/msg02554.html
+- Green/Palladium, like Green Kryptonite
+
+Could Lucky get himself arrested under the DMCA for
+distributing a circumvention device? Worse: now we have the
+EUCD incoming, could he here in the UK? Will Alan Cox go to
+jail for posting detailed Changelogs? Will even the nicest
+UK cryptographer (or curious garage tinkerer) find
+themselves hauled up under our new and scarily DMCAish
+copyright regime? Find out the facts at the free FAIR DEAL
+FOR COPYRIGHT conference, organised by the irrepressible
+FOUNDATION FOR INFORMATION POLICY RESEARCH for Wednesday
+2002-09-18 at the London School of Economics. All the usual
+fun from the creators of the Scrambling for Safety crypto
+cons: we confidently predict government spokesmen caught in
+headlights, wanton Dave Bird heckling, some industry bigwig
+fighting off the audience with a broken chairleg, and other
+epiphenomena of the interzone between legal minds and hacker
+ethics. Oh, and FIPR are still looking for a Programme
+Director, so if you're interested, let them know. We
+suggested a convention raffle (first prize: the director's
+job, second prize: Ross Anderson as your personal slave for
+a day). They say there's some rule that would break, though.
+http://www.fipr.org/vacancy.html
+- doesn't the Foundation use psychohistory for filling these positions?
+
+For those of us who can't read the abbreviation EULA without
+thinking of Martian fighting machines and their "deafening
+howls... which roared like thunder", we're sorry to report
+that this weekend's multimedia performance of Jeff Wayne's WAR
+OF THE WORLDS has been postponed due to "health and safety
+issues". The event was to feature computer graphics,
+fireworks, "60ft-tall Martian fighting machines" wreaking
+"havoc and destruction", and - most terrifyingly of all - the
+possibility of a David Essex tribute singer performing with
+Hawkwind, but UKP18 tickets for the Sat 2002-08-31 show at
+Manchester's Heaton Park will still be valid at a range of new
+venues next summer. Ironically, the Martians' original
+invasion plans were similarly thwarted by health and safety
+issues, "slain after all man's devices had failed by the
+humblest creatures that God, in his wisdom, has put upon this
+earth: bacteria. Minute, invisible, bacteria. For, directly
+the invaders arrived and drank and fed, our microscopic allies
+attacked them..."
+http://www.waroftheworlds.info/postpone.htm
+- "...From that moment, they were doomed."
+
+>> ANTI-NEWS > EVENT QUEUE > TRACKING > MEMEPOOL 500KB attachments is forbidden by the Geneva Convention.
+Your country may be at risk if you fail to comply.
+

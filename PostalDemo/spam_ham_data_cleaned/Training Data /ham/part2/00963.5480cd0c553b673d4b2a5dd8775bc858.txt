@@ -1,0 +1,37 @@
+Okay okay... after reading further I realized this wasn't all that great....
+thanks for the feedback anyway.
+
+----- Original Message -----
+From: "Joseph S. Barrera III"
+To: "Mr. FoRK"
+Cc:
+Sent: Saturday, August 03, 2002 10:31 PM
+Subject: Re: Using hosts file to rid yourself of popup ads
+
+> Mr. FoRK wrote:
+> > Don't know if everybody knows this trick...
+>
+> Yes. They do.
+>
+> > > Because we're inherently lazy, this works for windows only,
+>
+> Huh? Oh, that's right, Unix picked up the idea of /etc/hosts
+> from Windows. I keep forgetting.
+>
+> > > don't use it on a mac!
+>
+> Especially macs running unix (see above).
+>
+> > > We didn't write this file and do not provide
+> > > support for it's use.
+>
+> We don't even know how to use the fucking English language.
+> --
+> What security level comes after "Totally Apeshit"?
+> -- http://www.mnftiu.cc/mnftiu.cc/war12.html
+>
+>
+> http://xent.com/mailman/listinfo/fork
+>
+http://xent.com/mailman/listinfo/fork
+

@@ -1,0 +1,30 @@
+On Fri, Jul 19, 2002 at 03:35:36PM +0100 or so it is rumoured hereabouts,
+Niall O Broin thought:
+> illustrates this admirably. The poster is in the form of a PDF file and to
+> be honest, is best appreciated if you have access to a HP DesignJet or
+
+Speaking of HP Designjets, has anyone managed to utilise the full width of
+the paper on a HP Designjet 750c under RH7.x? The HP can take a 24" wide
+roll while the driver (dnj650c) lists a paper size of 16x24.
+Unfortunately, this will print only in protrait mode so I get a 24"x24"
+page with an unused 8" strip down one side! I'd like to be able to print
+24x or whatever (even 24x30!) but I don't seem able to do so.
+
+Any thoughts?
+
+Conor
+--
+Conor Daly
+
+Domestic Sysadmin :-)
+---------------------
+Faenor.cod.ie
+6:49pm up 57 days, 4:07, 0 users, load average: 0.03, 0.03, 0.00
+Hobbiton.cod.ie
+6:38pm up 1:15, 1 user, load average: 0.03, 0.06, 0.04
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

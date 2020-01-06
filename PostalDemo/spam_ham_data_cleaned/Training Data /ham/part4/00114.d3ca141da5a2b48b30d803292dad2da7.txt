@@ -1,0 +1,26 @@
+Quoting Ronan Waide :
+
+> Sure, but soft links would do the same. To be honest, I'm trying to
+> think of a useful use of hard links right now, and I'm a little
+> stumped. There's gotta be some benefit that I'm missing that's
+> immediately obvious to everyone.
+
+No there doesn't :-) . The Bell labs Unix people implemented hard
+links, whereas Bill Joy and co. at Berkeley implemented soft links,
+five years later, mainly to get around not being able to do
+cross-device hard linking, as I understand it. Soft links are fairly
+classic Berkeley hackery (cf. gethostbyname, h_errno, and the
+resultant problems implementing mt-safe interfaces); they do what they
+were intended for, but break fairly easily, in this case when the
+target file was deleted. For a better design for similar ideas, see
+the MacOS.
+
+--
+I'm not a pheasant plucker / I'm a pheasant plucker's son.
+I'm just a'plucking pheasants / 'Til the pheasant plucker comes.
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

@@ -1,0 +1,20 @@
+On Mon, 05 Aug 2002 21:39:59 -0400
+Tom Reingold wrote:
+
+> Years ago, there was a package called mh-e which was an emacs
+> interface to MH. I don't know if it's still around or works. But
+> it's an idea.
+
+Its still around, its actively maintained, and its quite well evolved.
+
+--
+J C Lawrence
+---------(*) Satan, oscillate my metallic sonatas.
+claw@kanga.nu He lived as a devil, eh?
+http://www.kanga.nu/~claw/ Evil is a name of a foeman, as I live.
+
+_______________________________________________
+Exmh-users mailing list
+Exmh-users@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-users
+

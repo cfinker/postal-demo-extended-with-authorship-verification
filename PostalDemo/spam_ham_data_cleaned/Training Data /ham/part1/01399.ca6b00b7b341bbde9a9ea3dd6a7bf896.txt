@@ -1,0 +1,21 @@
+So then, "Mark Hammond" is all like:
+
+> So, given that, ZODB is sounding attractive. I would package it up, so a
+> few hundred extra K is probably no big deal. The code could fall back to
+> the slow-loading pickles, so people running from source still work, just
+> possibly not as well.
+
+I haven't used ZODB much really but it sure looks like the Right Way. I
+don't think it will fly with the unwashed Unix masses, but it sounds
+like a piece of cake with the Windows crowd. That makes sense; you only
+have one OS vendor and one processor family to support.
+
+I'm going to go sulk in /dev/corner now.
+
+Neale
+
+_______________________________________________
+Spambayes mailing list
+Spambayes@python.org
+http://mail.python.org/mailman/listinfo/spambayes
+

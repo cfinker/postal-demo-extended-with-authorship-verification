@@ -1,0 +1,34 @@
+Kevin wrote:
+> am i the only one who thinks this is like "friday night 80's" for ilug?
+> and here's an answer from 1989. for those perceptive folks in the
+> audience you'll note that it makes no reference to a windows icons.
+
+> so yeah, unrm would be nice, but obviously it's not a simple problem.
+> millions of lines of code, hundreds of projects, no unrm. heck, the
+> hurd will probably release 1.0 before unrm shows up.
+
+So what this tells us is:
+1) There are very few new ideas.
+2) Problems exists until someone gets annoyed enough to actually fix them
+rather than find bizarre ways to solve the problem.
+3) I have too much creative time on my hands with not enough productive
+time.
+
+>>From which we can infer that no work on unrm will be happening on my
+computer for a long time.
+
+:)
+
+- Matthew
+
+__________________________________________________
+Do You Yahoo!?
+Everything you'll ever need on one web page
+from News and Sport to Email and Music Charts
+http://uk.my.yahoo.comm
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

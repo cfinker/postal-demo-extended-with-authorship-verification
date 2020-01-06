@@ -1,0 +1,53 @@
+--==_Exmh_-695163552P
+Content-Type: text/plain; charset=us-ascii
+
+> From: Robert Elz
+> Date: Mon, 26 Aug 2002 14:00:18 +0700
+>
+> Date: Fri, 23 Aug 2002 10:58:20 -0500
+> From: Chris Garrigues
+> Message-ID:
+>
+> | Interesting...I don't think this was my bug.
+> | It appears that Msg_Change was asked to change to message "-".
+>
+> Something like that is quite possible, but perviously typing nonsense
+> in didn't cause tracebacks, and now it does, and the traceback came
+> from the sequence code...
+>
+> Perviously this would have just caused red messages in the status
+> line complaining about my lousy typing. That's probably what it
+> should keep on doing (the "red" part isn't important obviously..)
+
+Tell me what keystroke made it happen so I can reproduce it and I'll see what
+I can do about it (or if I can't, I'll hand it off to Brent).
+
+Chris
+
+--
+Chris Garrigues http://www.DeepEddy.Com/~cwg/
+virCIO http://www.virCIO.Com
+716 Congress, Suite 200
+Austin, TX 78701+1 512 374 0500
+
+World War III: The Wrong-Doers Vs. the Evil-Doers.
+
+--==_Exmh_-695163552P
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: Exmh version 2.2_20000822 06/23/2000
+
+iD8DBQE9ajrsK9b4h5R0IUIRAmd+AJ9WU9Wzf7ey0YYYTpYGcyJfpZuUFwCfX4CN
+KE8fxn3ZKKmtJCWgS2fXK/w=
+=enN3
+-----END PGP SIGNATURE-----
+
+--==_Exmh_-695163552P--
+
+_______________________________________________
+Exmh-workers mailing list
+Exmh-workers@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-workers
+

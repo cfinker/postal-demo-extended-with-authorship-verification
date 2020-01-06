@@ -1,0 +1,24 @@
+On Sat, Jul 20, 2002 at 07:03:17PM +0100, kevin lyda wrote:
+
+> > > I know this is not strictly a 'Linux' issue but any help would be appreciated
+> > Microsoft has very much made this a Linux issue - it has attempted to imply
+> > that any company using GPL software must make everything it owns public and
+> > it must be true - that nice man from Microsoft wouldn't lie, would he ?
+>
+> but that's just stupid. microsoft s/w covers a subset of applications
+
+You know it's stupid - I know it's stupid. Nonetheless, Microsoft has tried
+to spread FUD about the viral nature of the GPL to make CEO/CIO level people
+(often not the most technically clueful, even the CIOs) fear that if they so
+much as use a Linux box, as, say, a print server, they'll have to make their
+company's entire IP public. (I don't think Microsoft said precisely what I
+jsut said, but that was the tenor of the remarks). And their marketing
+budget is a tad bigger than yours or mine.
+
+Niall
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

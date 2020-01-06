@@ -1,0 +1,5 @@
+/etc/cron.daily/tripwire-check:
+
+**** Error: Tripwire database for jalapeno not found. ****
+**** Run /etc/tripwire/twinstall.sh and/or tripwire --init. ****
+

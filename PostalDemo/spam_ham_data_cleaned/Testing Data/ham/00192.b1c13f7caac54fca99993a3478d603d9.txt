@@ -1,0 +1,26 @@
+SoloCDM wrote:
+> David Neary stated the following:
+> > Try the following newsgroups - Beginners: news:comp.lang.learn.c-c++
+>
+> I tried news:comp.lang.learn.c-c++ and it wouldn't work. Is there a
+> typo?
+
+Yup. It's alt.comp.lang.learn.c-c++ Sorry about that.
+
+I've never used the group, so I can't vouch for it's usefulness.
+But a few people I respect a lot direct people there for beginner
+type stuff.
+
+Cheers,
+Dave.
+
+--
+David Neary,
+Marseille, France
+E-Mail: bolsh@gimp.org
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

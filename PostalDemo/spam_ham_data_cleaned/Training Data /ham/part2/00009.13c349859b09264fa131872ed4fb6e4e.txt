@@ -1,0 +1,61 @@
+--==_Exmh_-2067045721P
+Content-Type: text/plain; charset=us-ascii
+
+> From: Chris Garrigues
+> Date: Wed, 21 Aug 2002 10:15:18 -0500
+>
+> > From: Valdis.Kletnieks@vt.edu
+> > Date: Wed, 21 Aug 2002 02:36:56 -0400
+> >
+> > --==_Exmh_778588528P
+> > Content-Type: text/plain; charset=us-ascii
+> >
+> > On Tue, 20 Aug 2002 22:51:52 EDT, Valdis.Kletnieks@vt.edu said:
+> >
+> > > Ever tried to get MH to *not* have a 'pseq' sequence? I suspect everyb
+> od
+> > y's
+> > > looking at a big box that has unseen and pseq in it. Might want to add
+> > > 'pseq' to the 'hide by default' list....
+> >
+> > Was it intended that if you added a sequence to the 'never show' list tha
+> t
+> > it not take effect till you stopped and restarted exmh? I added 'pseq',
+> > then hit 'save' for Preferences - didn't take effect till I restarted.
+>
+> No it wasn't, and at one point it worked fine. I'll check and see why it
+> stopped working.
+
+Ah....I think this may be a user error. If you change the field in the
+preferences window the variable doesn't actually change unless you press
+return. If you merely click elsewhere, nothing happens.
+
+Chris
+
+--
+Chris Garrigues http://www.DeepEddy.Com/~cwg/
+virCIO http://www.virCIO.Com
+716 Congress, Suite 200
+Austin, TX 78701+1 512 374 0500
+
+World War III: The Wrong-Doers Vs. the Evil-Doers.
+
+--==_Exmh_-2067045721P
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: Exmh version 2.2_20000822 06/23/2000
+
+iD8DBQE9Y7llK9b4h5R0IUIRAn1UAJ9QeXRMZ2Bisp/apMknW7cTMweAeACePtOK
+MjOpAc2YKCDHawR3bJpOstk=
+=Um7T
+-----END PGP SIGNATURE-----
+
+--==_Exmh_-2067045721P--
+
+_______________________________________________
+Exmh-workers mailing list
+Exmh-workers@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-workers
+

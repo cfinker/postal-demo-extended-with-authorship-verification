@@ -1,0 +1,44 @@
+--==_Exmh_-178228168P
+Content-Type: text/plain; charset=us-ascii
+
+> From: Stephen Hocking
+> Date: Thu, 25 Jul 2002 09:49:46 -0500
+>
+> As far as I understand, exmh also does some direct file access to do
+> things, so the daemon would also have to be able to duplicate this,
+> and the relevant bits inside exmh would have to be tweaked.
+
+It does. If anybody in the nmh world actually gets to the point of actually
+implementing imap access, this will need to change, but until there exists an
+environment where the direct access doesn't work, we're not going to take the
+performance hit.
+
+Chris
+
+--
+Chris Garrigues http://www.DeepEddy.Com/~cwg/
+virCIO http://www.virCIO.Com
+716 Congress, Suite 200
+Austin, TX 78701+1 512 374 0500
+
+World War III: The Wrong-Doers Vs. the Evil-Doers.
+
+--==_Exmh_-178228168P
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: Exmh version 2.2_20000822 06/23/2000
+
+iD8DBQE9QBvsK9b4h5R0IUIRAjvCAKCPgWXNzEZeGqZzndi4c/eCvYFwjACfXyIf
+unh9xzeNTBgaVtCoOJ4MErU=
+=DXeG
+-----END PGP SIGNATURE-----
+
+--==_Exmh_-178228168P--
+
+_______________________________________________
+Exmh-users mailing list
+Exmh-users@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-users
+

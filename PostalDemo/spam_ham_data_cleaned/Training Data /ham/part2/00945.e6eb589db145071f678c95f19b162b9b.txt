@@ -1,0 +1,60 @@
+--==_Exmh_-694865624P
+Content-Type: text/plain; charset=us-ascii
+
+> From: Robert Elz
+> Date: Sat, 24 Aug 2002 18:56:05 +0700
+>
+> Date: Thu, 22 Aug 2002 10:04:06 -0500
+> From: Chris Garrigues
+> Message-ID:
+>
+> | hmmm, I assume you're going to report this to the nmh folks?
+>
+> Yes, I will, sometime, after I look at the nmh sources and see what
+> they have managed to break, and why.
+>
+> But we really want exmh to operate with all the versions of nmh that
+> exist, don't we? The patch to have exmh do the right thing, whether this
+> bug exists, or not, is trivial, so I'd suggest including it.
+>
+> Patch follows ...
+>
+> I have no idea why the sequences were being added after the message list
+> before, not that it should make any difference to nmh (or MH). But since
+> I stopped doing that, the variable "msgs" isn't really needed any more,
+> rather than assigning $pick(msgs) to msgs, and then using $msgs the code
+> could just use $pick(msgs) where $msgs is now used. This is just a
+> frill though, so I didn't change that.
+
+I'll fix this in CVS this afternoon.
+
+Thanks,
+Chris
+
+--
+Chris Garrigues http://www.DeepEddy.Com/~cwg/
+virCIO http://www.virCIO.Com
+716 Congress, Suite 200
+Austin, TX 78701+1 512 374 0500
+
+World War III: The Wrong-Doers Vs. the Evil-Doers.
+
+--==_Exmh_-694865624P
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: Exmh version 2.2_20000822 06/23/2000
+
+iD8DBQE9ajtDK9b4h5R0IUIRAlFjAKCJRCAKR2dkmh5oqHfkagDddfmrBwCdH6vv
+FCRlUSeu14edQaoD4yCWoDQ=
+=+lzS
+-----END PGP SIGNATURE-----
+
+--==_Exmh_-694865624P--
+
+_______________________________________________
+Exmh-workers mailing list
+Exmh-workers@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-workers
+

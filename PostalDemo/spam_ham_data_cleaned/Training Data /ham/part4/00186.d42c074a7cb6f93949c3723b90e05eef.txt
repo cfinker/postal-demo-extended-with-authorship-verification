@@ -1,0 +1,31 @@
+On Sat, 27 Jul 2002, kevin lyda wrote:
+
+> saw this on mutt users. might be a handy trick for those of with
+> hyperactive archiving genes... :)
+>
+> this might work better in this long run though:
+>
+> set record='~/Mail/outbox-`date "+%Y-%m"`'
+
+A nice followon of this for the obsessive archiver is:
+
+Procmail:
+.procmail/rc.mail
+
+:0:
+* ^Subject.*\[ILUG\]
+:ilug-`date "+%m-%Y"`
+
+and Mutt:
+.muttrc:
+mailboxes =ilug-`date "+%m-%Y"`
+
+does mean threads get broken at the start of the month though :(
+
+Gavin
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

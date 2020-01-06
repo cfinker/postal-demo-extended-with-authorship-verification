@@ -1,0 +1,3 @@
+Unable to find user:
+Please make sure the address is correct and resend your mail.
+

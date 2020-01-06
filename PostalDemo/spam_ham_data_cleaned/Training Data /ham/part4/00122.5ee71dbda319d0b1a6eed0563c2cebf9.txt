@@ -1,0 +1,15 @@
+Mornin' all,
+I'm running one of the development snapshots of putty, and i just
+noticed a very handy new feature: builtin proxy support. This means that
+people like me can connect to external hosts using ssh via a http proxy.
+Nitfy.
+
+Steve
+--
+"Oh look, it's the Pigeon of Love."
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

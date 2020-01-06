@@ -1,0 +1,28 @@
+On Fri, 19 Jul 2002 23:38:09 +0100
+Brian Foster claiming to think:
+
+> but, like the classic techniques, there is no rolling
+> back of accidental overwrites.
+>
+> ( rolling back overwrites reminds me of the "snapshot"
+> facility on NetWork Appliance fileservers. and of the
+> various "versioning" filesystems which appeared --- and
+> then vanished? --- over the years.... )
+>
+and it's in FreeBSD 5.0-CURRENT AFAIK...
+
+/me migrates every linux box to the one true way..
+
+L.
+--
+dBP dBBBBb | If you're looking at me to be an accountant
+dBP | Then you will look but you will never see
+dBP dBBBK' | If you're looking at me to start having babies
+dBP dB' db | Then you can wish because I'm not here to fool around
+dBBBBP dBBBBP' | Belle & Sebastian (Family Tree)
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

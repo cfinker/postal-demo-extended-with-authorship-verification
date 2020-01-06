@@ -1,0 +1,32 @@
+Quoting Niall O Broin :
+
+> I'm installing warm standby disks on a number of boxes. These disks will be
+> the same size (sometimes bigger) than the main disk. The idea is that every
+> night I'll rsync the partitions on the main disk to the standby disk so
+> that
+> in the case of disaster, the first port of call, before the tapes, is the
+> standby disk. (We did consider running Linux md RAID on the disks but RAID
+> gives you no protection against slips of the finger)
+
+Do I get beaten round the head for saying "floppy"?
+Assuming the machines are networked, let each one send a copy of its kernel to
+the others. If the drives are open-the-box-and-switch-cables, then you can
+start dd'ing a floppy before you start. If the drives are in drawers, then this
+might slow you down by all of 60 seconds.
+
+Alternatively, you could use netboot. No, I'm serious. Set the boot sequence
+to first hard disk then network. Do NOT make any partition on the standby
+active. Have a look at the etherboot package. One of the things it contains is
+a pascal-ish language for writing boot menus. You can write a one-liner that
+basically says "boot /dev/hda1" (or whatever, there's example code). IIRC, the
+resulting "bootable image" is a whopping 4K. The downside is you'll need a
+bootp and tftp server somewhere....
+
+hth,
+Ronan.
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

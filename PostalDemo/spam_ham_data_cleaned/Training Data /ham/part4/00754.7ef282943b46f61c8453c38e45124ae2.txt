@@ -1,0 +1,51 @@
+--==_Exmh_2077566172P
+Content-Type: text/plain; charset=us-ascii
+
+> From: Chris Garrigues
+> Date: Thu, 01 Aug 2002 10:01:04 -0500
+>
+> > If you run Pick, and then use the "New FTOC" button to show only
+> > those messages selected by pick, then the ftoc display was considered
+> > "invalid" in the old code. This prevented the display from being cached,
+> > and it meant that you could get back to the full folder display by
+> > clicking on the folder lablel. That doesn't work anymore. You have
+> > to resort to Rescan Folder. In fact, when you change folders you
+> > continue to have the Pick results, not the new folder contents.
+> > If you go to a any folder and do Rescan, then it heals itself.
+>
+> Well, that's obviously my fault. Okay, will look when I get a chance.
+
+My copy of the tree right now is full of organizational changes in
+preparation for generalizing the unseen window for display of other
+sequences, so I'll probably not check in a fix for this until I
+stabilize that.
+
+Chris
+
+--
+Chris Garrigues http://www.DeepEddy.Com/~cwg/
+virCIO http://www.virCIO.Com
+716 Congress, Suite 200
+Austin, TX 78701+1 512 374 0500
+
+World War III: The Wrong-Doers Vs. the Evil-Doers.
+
+--==_Exmh_2077566172P
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: Exmh version 2.2_20000822 06/23/2000
+
+iD8DBQE9SXl0K9b4h5R0IUIRAsr/AJ96ydWWdsjfZ7fqVwq7TJ4ggAvMagCeOV0a
+HEX6F2zWp6uFZMRim5GKcpY=
+=c2hQ
+-----END PGP SIGNATURE-----
+
+--==_Exmh_2077566172P--
+
+_______________________________________________
+Exmh-workers mailing list
+Exmh-workers@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-workers
+

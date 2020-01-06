@@ -1,0 +1,63 @@
+--==_Exmh_601800448P
+Content-Type: text/plain; charset=us-ascii
+
+F> From: kchrist@lsil.com
+> Date: Wed, 24 Jul 2002 15:41:04 -0600
+>
+> I think you are referring to a problem I noticed last October (see
+> attached email). If I remember correctly, the binding for SeditBeautify
+> is being applied outside of the sedit window and that results in the
+> behavior observed.
+>
+> Subject: SeditBeautify bug
+> Date: Tue, 02 Oct 2001 15:00:16 -0600 (16:00 CDT)
+> From: kchrist@lsil.com
+>
+> It appears that the binding for SeditBeautify applies to
+> more than just the sedit window. Since SeditBeautify assumes
+> we are in a sedit window the routine fails. (Try typing
+> ctrl-l over the main window to see what I mean).
+>
+> The quick fix for this is to make the ^l more restrictive. However, I'd
+> suggest keeping things the way the are and extending ^l to be a
+> highlight toggle. If the window is currently highlighted (sedit or msg)
+> re-display without highlighting and vice versa.
+>
+> While I can hack tcl, hacking tk is another story. Translation: I can't
+> fix this bug myself. Any volunteers?
+
+That's clearly the same bug.
+
+I don't think I can fix it either...I certainly can't while my copy of Brent's
+book is across town. I do understand parts of tk fairly well, but the
+event handlers give me a headache.
+
+Chris
+
+--
+Chris Garrigues http://www.DeepEddy.Com/~cwg/
+virCIO http://www.virCIO.Com
+716 Congress, Suite 200
+Austin, TX 78701+1 512 374 0500
+
+World War III: The Wrong-Doers Vs. the Evil-Doers.
+
+--==_Exmh_601800448P
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: Exmh version 2.2_20000822 06/23/2000
+
+iD8DBQE9PyAgK9b4h5R0IUIRAs7bAJ9uQUJ4MYEZf0/e6PuGSFSok9k1EQCfQxea
+dhHEFQpPCkqmstOtLRrRcz0=
+=RSdo
+-----END PGP SIGNATURE-----
+
+--==_Exmh_601800448P--
+
+_______________________________________________
+Exmh-workers mailing list
+Exmh-workers@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-workers
+

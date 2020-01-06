@@ -1,0 +1,77 @@
+http://www.techcentralstation.com/1051/printer.jsp?CID=1051-080802A
+
+>Mail Me the Money!
+>By David Friedman 08/08/2002
+
+David is a very bright fellow. But this time he's
+several years behind. The idea of using epostage
+to stop spam has been discussed quite a bit. The
+problem is how to get over the adoption hump.
+Until most people are taking one form of epostage,
+most people don't have enough incentive to download
+and install something that allows them to pay it.
+Until most people are set up to pay it, any form of
+epostage I require closes my mailbox to unknown
+senders from whom I want to receive mail. And even
+from known senders. Giving someone my email address
+doesn't automatically put them in my white list.
+
+Hashcash tries to lower the adoption barrier by
+removing the need to pay money for epostage.
+Instead, the sender burns processing time on his
+computer, answering a cryptographically hard
+challenge. But even this requires set-up. There is
+inadequate incentive to do so until there is a
+standard mechanism, but no standard mechanism is
+born until a significant fraction of the market
+has taken that first step. It may take government
+action, to institute an effective epostage
+standard!
+
+I think the better idea is to require that people
+off your white list "hand sign" email to you. A
+couple of companies are now trying to implement
+this. An email sender, if not on your white list,
+must respond to a verification email or go to a
+website, by a process that is very simply for a
+human sender, but difficult for a spammer to
+automate. Where epostage requires a standard
+mechanism, a variety of mechanisms for "hand
+signing" would frustrate spammers while making it
+no more difficult for legitimate senders. I'm
+hoping Eudora and some of the other big mail
+clients incorporate this kind of feature. The
+advantage to putting this in the mail client is
+that the required "hand sign" can be personalized:
+
+"Your attempt to email David Friedman is
+blocked until you fill in the blank: The
+Incredible ______ Machine."
+
+It will be a long time before spammers have a
+process that defeats millions of personal
+challenges. On the other hand, I have a hack in
+mind that would work a large percentage of the
+time. But I'm not telling. If spammers did figure
+out such hacks, people would then improve their
+challenges. Yeah, this would lead to another
+arms race, and spam would leak through to the
+unwitting. But this arms race is one that helps
+spammers identify and target the part of the
+population whose challenges are sub-par, which
+is their natural prey. People like David aren't
+in the market for herbal Viagra or back alley
+debt consolidation.
+
+Since David is an anarchist, I'm surprised he
+didn't point out that spam is the result of
+government. The government is ineffective at
+preventing spam, but it DOES prevent individuals
+and ISPs from taking retribution against spammers.
+
+_________________________________________________________________
+MSN Photos is the easiest way to share and print your photos:
+http://photos.msn.com/support/worldwide.aspx
+
+http://xent.com/mailman/listinfo/fork
+

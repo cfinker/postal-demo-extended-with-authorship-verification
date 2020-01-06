@@ -1,0 +1,36 @@
+As far as I can remember, the fact that the IPID is zero was introduced into
+2.4 was to introduce correct behaviour, i.e. in the case where it is not
+needed, it is set to zero. This was discussed on bugtraq a while
+ago....lemme see...
+http://cert.uni-stuttgart.de/archive/bugtraq/2002/03/msg00372.html shows a
+message from nmap's author on the subject. The only thing having IPID==0
+achieves is that you have one more criteria on which to base your OS
+fingerprint which isn't really much of a problem to be honest.
+
+Stop worrying about it :)
+
+Cheers,
+jr
+----- Original Message -----
+From: "Paul O'Neil"
+To:
+Sent: Monday, July 22, 2002 1:50 PM
+Subject: [ILUG] nmap results
+
+> I had posted previously about the 2.4 kernel using iptables I ran nmap
+> against. The IPID sequence generation was all zeros. Someone said this was
+> indicative of earlier kernels but was fixed about 2.4.5 version. Since I'm
+> running the latest what is causing this? I ran nmap against a 2.2 kernel
+> using chains and it had better results than the stock 2.4 kernel.
+>
+> --
+> Irish Linux Users' Group: ilug@linux.ie
+> http://www.linux.ie/mailman/listinfo/ilug for (un)subscription
+information.
+> List maintainer: listmaster@linux.ie
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

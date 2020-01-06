@@ -1,0 +1,46 @@
+--9amGYk9869ThD9tj
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+
+Justin Mason [2002-08-29 17:00:12 +0100]:
+> Well, my point is more that we should aim our rescoring algorithm so that
+> a spam hits 5.0. Any higher does us no good, as it means an FP is
+> a lot harder to recover from, using compensation rules.
+
+Agreed.
+
+But I have always thought that the value 5 was not the best value. It
+should have been 0. I understand that initially only spammy scores
+were included. But I believe the algorithm should be purely
+symmetrical and non-spammy negative values should also have been
+balancing out the spammy positive values, like they do in SA today.
+Then anything that was positive would be spam and anything negative
+would be non-spam. (And I guess exactly zero is grey. :-) Today's
+choice of 5 just adds an offset. Which I think cause people to assume
+things work differently than they do.
+
+Bob
+
+--9amGYk9869ThD9tj
+Content-Type: application/pgp-signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.7 (GNU/Linux)
+
+iD8DBQE9bky50pRcO8E2ULYRAjI6AJwMoi8s2IUg4XpVAwCqpBC3gcd/cQCfepOm
+COS03YufMiFLSHhCZ8KkLxU=
+=YwM7
+-----END PGP SIGNATURE-----
+
+--9amGYk9869ThD9tj--
+
+-------------------------------------------------------
+This sf.net email is sponsored by:ThinkGeek
+Welcome to geek heaven.
+http://thinkgeek.com/sf
+_______________________________________________
+Spamassassin-talk mailing list
+Spamassassin-talk@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
+

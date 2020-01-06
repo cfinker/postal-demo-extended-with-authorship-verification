@@ -1,0 +1,24 @@
+Mr. FoRK wrote:
+> Don't know if everybody knows this trick...
+
+Yes. They do.
+
+> > Because we're inherently lazy, this works for windows only,
+
+Huh? Oh, that's right, Unix picked up the idea of /etc/hosts
+from Windows. I keep forgetting.
+
+> > don't use it on a mac!
+
+Especially macs running unix (see above).
+
+> > We didn't write this file and do not provide
+> > support for it's use.
+
+We don't even know how to use the fucking English language.
+--
+What security level comes after "Totally Apeshit"?
+-- http://www.mnftiu.cc/mnftiu.cc/war12.html
+
+http://xent.com/mailman/listinfo/fork
+

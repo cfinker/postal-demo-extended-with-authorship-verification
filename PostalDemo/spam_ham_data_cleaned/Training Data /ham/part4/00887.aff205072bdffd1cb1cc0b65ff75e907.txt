@@ -1,0 +1,61 @@
+Remember when I said that taking an afternoon off to march for Dmitri
+was pissing in the wind and that to be really effective we needed
+people willing to publically break the stupid laws right in the
+face of the authorities?
+
+Well it seems Bruce Perens agrees with me, only he's going one better,
+instead of just mouthing off about it, he's going to do it and do it
+in a big way ...
+
+Open source campaigner to risk jail
+By James Middleton [24-07-2002]
+
+Bruce Perens plans live DVD hack
+
+With the dust from the Elcomsoft/Sklyarov case still thick in the
+air, influential open source activist Bruce Perens plans to go one
+better by breaking the Digital Millennium Copyright Act (DCMA)
+during a live presentation on Friday.
+
+Fresh from giving RealNetworks a slating for not completely
+backing open source with its latest announcement, Perens said that
+during a Digital Rights Management presentation to be held Friday
+at the O'Reilly developer conference in San Diego, he would break
+the law.
+
+The DMCA has been a sore point in the open source community since
+the outlawing of DeCSS, a tool created so that DVDs could be
+played on Linux machines, and more recently since the arrest of
+Dmitry Sklyarov and the criminal charges faced by his employer,
+Elcomsoft.
+
+Based on the recent history of DMCA contravention, Perens could
+face imprisonment or a $500,000 fine for his actions.
+
+According to Infoworld the demonstration is to be carried out in
+protest at the regional system used by the motion picture industry
+to prevent DVDs released in one country being played on machines
+in another country.
+
+During his presentation, Perens will demonstrate how to hack a DVD
+player so that it can play movies from any region.
+
+"It is a political and social statement, and the statement is that
+the people do not need to have a hall monitor living in their
+stereo system and should be able to play any kind of media on the
+device they wish," he was quoted as saying.
+
+But luck may be on his side, if last year is anything to go by. At
+the same conference in 2001 Perens made a presentation on the
+triviality of Digital Rights Management systems using exactly the
+same slides that got Sklyarov arrested.
+
+http://www.vnunet.com/News/1133862
+
+--
+Gary Lawrence Murphy TeleDynamics Communications Inc
+Business Innovations Through Open Source Systems: http://www.teledyn.com
+"Computers are useless. They can only give you answers."(Pablo Picasso)
+
+http://xent.com/mailman/listinfo/fork
+

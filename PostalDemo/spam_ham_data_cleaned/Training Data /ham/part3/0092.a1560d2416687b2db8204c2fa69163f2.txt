@@ -1,0 +1,67 @@
+(This list is sponsored by Ironclad Networks http://www.ironclad.net.au/)
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_00C1_01C25017.F2F04E20
+Content-Type: text/plain;
+charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+I'm using Simple DNS from JHSoft. We support only a few web sites and =
+I'd like to swap secondary services with someone in a similar position.
+
+We have a static IP, DSL line and a 24/7 set of web, SQL, mail and now a =
+DNS server. As I said, we are hosting about 10 web sites, web and DNS =
+traffic is almost nothing. Everything is on lightly loaded APC battery =
+backups so we are very seldom down.
+
+I'd like to swap with someone also using Simple DNS to take advantage of =
+the trusted zone file transfer option.
+
+Bob Musser
+Database Services, Inc.
+Makers of:
+Process Server's Toolbox
+Courier Service Toolbox
+BobM@dbsinfo.com
+www.dbsinfo.com
+106 Longhorn Road
+Winter Park FL 32792
+(407) 679-1539
+
+------=_NextPart_000_00C1_01C25017.F2F04E20
+Content-Type: text/html;
+charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+I'm using Simple DNS from JHSoft. We support =
+only a few=20
+web sites and I'd like to swap secondary services with someone in a =
+similar=20
+position.
+
+We have a static IP, DSL line and a 24/7 set of web, =
+SQL, mail=20
+and now a DNS server. As I said, we are hosting about 10 web =
+sites, web=20
+and DNS traffic is almost nothing. Everything is on lightly loaded =
+APC=20
+battery backups so we are very seldom down.
+
+I'd like to swap with someone also using Simple DNS =
+to take=20
+advantage of the trusted zone file transfer option.
+
+Bob MusserDatabase Services, Inc.Makers=20
+of: Process Server's Toolbox Courier =
+Service=20
+ToolboxBobM@dbsinfo.comwww.dbsinfo.com106 Longhorn =
+RoadWinter=20
+Park FL 32792(407) 679-1539
+
+------=_NextPart_000_00C1_01C25017.F2F04E20--
+
+--
+To Unsubscribe:
+Sponsor & Host: Ironclad Networks
+

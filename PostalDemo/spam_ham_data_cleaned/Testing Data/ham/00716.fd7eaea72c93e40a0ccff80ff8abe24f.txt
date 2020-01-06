@@ -1,0 +1,54 @@
+--==_Exmh_1600470190P
+Content-Type: text/plain; charset=us-ascii
+
+> From: Anders Eriksson
+> Date: Wed, 24 Jul 2002 11:34:52 +0200
+>
+> The following patch removes Ftoc_RescanLine in favour of a
+> Ftoc_RescanLines. It runs scan(1) on a list of lines and updates ftoc
+> accordingly. The patch also changes all the callers to make use of it.
+>
+> It also changes Ftoc_ClearCurrent to work of an argument instead of
+> falsily clearing a message that's still Current on disk. All in an
+> effort to get a one-to-one disk-display correspondence.
+>
+> It does add ~30 -- ~ 75 ms (~ folder size due to the invocation of scan. However this version does
+> not try to second guess the mh version of scan so if you have exotic
+> scanlines it tells the truth. As a side effect the '+' sign now
+> corresponds better to what's on disk.
+>
+> Comments appreciated. I'm going to be offlike for a couple of days,
+> so I send the cvs diff rather than putting it in the cvs.
+
+Okay, I've just patched and sourced it into my running exmh, so I'll let you
+know if anything breaks.
+
+Chris
+
+--
+Chris Garrigues http://www.DeepEddy.Com/~cwg/
+virCIO http://www.virCIO.Com
+716 Congress, Suite 200
+Austin, TX 78701+1 512 374 0500
+
+World War III: The Wrong-Doers Vs. the Evil-Doers.
+
+--==_Exmh_1600470190P
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: Exmh version 2.2_20000822 06/23/2000
+
+iD8DBQE9PsaDK9b4h5R0IUIRAlnZAJ9uyst86+8R7mzxf3yWJeNv9AHe6ACdHAeC
+IkGCzBzaFuPg7EWgIeLNEJM=
+=0S4w
+-----END PGP SIGNATURE-----
+
+--==_Exmh_1600470190P--
+
+_______________________________________________
+Exmh-workers mailing list
+Exmh-workers@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-workers
+

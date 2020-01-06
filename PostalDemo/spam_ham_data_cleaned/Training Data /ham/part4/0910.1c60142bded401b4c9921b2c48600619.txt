@@ -1,0 +1,45 @@
+------=_NextPart_001_0004_01C2655A.4ABB3500
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+----- Original Message -----
+From: Joseph S. Barrera III
+Sent: Wednesday, September 25, 2002 7:06 PM
+To: FoRK
+Subject: dumb question: X client behind a firewall?
+
+Let's say you're behind a firewall and have a NAT address.
+Is there any way to telnet to a linux box out there in the world
+and set your DISPLAY in some way that you can create
+xterms on your own screen?
+
+- Joe
+
+--------------------
+I'm in no way a pro but perhaps you could set your Firewall to accept con=
+nections from that Linux box and then somehow set the Linux box to transm=
+it on a specific port. Then configure your router to forward all informat=
+ion from that port to your box.
+
+But then again, that pretty much defeats the entire point of a firewall =3D=
+P.Get more from the Web. FREE MSN Explorer download : http://explorer.ms=
+n.com
+
+------=_NextPart_001_0004_01C2655A.4ABB3500
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+=
+----- Original Message ----- From: Joseph S. Barrera III Sent: Wednesday, September 25, 2002 7:06 PM To: FoRK Subject: dumb question: X client behind a firewall? L=
+et's say you're behind a firewall and have a NAT address.Is there any=
+way to telnet to a linux box out there in the worldand set your DISP=
+LAY in some way that you can createxterms on your own screen?=
+- Joe -------------------- I'm in no way a pr=
+o but perhaps you could set your Firewall to accept connections from that=
+Linux box and then somehow set the Linux box to transmit on a specific p=
+ort. Then configure your router to forward all information from that port=
+to your box. But then again, that pretty much defea=
+ts the entire point of a firewall =3DP.Get more from the Web. FREE MSN Explorer download : http://explorer.msn.com
+
+------=_NextPart_001_0004_01C2655A.4ABB3500--
+

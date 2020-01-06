@@ -1,0 +1,27 @@
+On Sun, 11 Aug 2002, Russell Turpin wrote:
+
+> If you have a rogue app on your machine, what keeps it from sniffing
+> your passphrase? This is one of the reasons I keep harping on the need
+
+As long as the OS doesn't give you a convenient GetPassPhrase() method
+that threat model is theoretical. Worms are autonomous, and autonomous
+worms are not that smart.
+
+However, that's the reason I mentioned crypto hardware (USB fobs, smart
+cards, etc).
+
+> for thin, secure clients.
+
+While this is a good idea, the concept of security is holistic. It
+involves a secure OS, secure apps, and crypto hardware.
+
+> When I read email, I want to respond to email, which means, were I
+> using a digital signature, that it needs to be at the ready.
+
+I believe I mentioned users can't be bothered to enter passphrases. That's
+what tokens are there for. At some point we can expect a convenient USB
+port on the keyboard, or the video device front. Meanwhile, my Net PC
+server sitting by the CRT with front USB ports will do.
+
+http://xent.com/mailman/listinfo/fork
+

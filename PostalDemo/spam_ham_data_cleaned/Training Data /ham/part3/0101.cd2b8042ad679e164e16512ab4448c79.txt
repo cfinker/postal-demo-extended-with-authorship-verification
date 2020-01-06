@@ -1,0 +1,222 @@
+http://www.lockergnome.com/issues/techspecialist/20020718.html
+
+To unsubscribe, simply reply to this e-mail message.
+
+To resubscribe, visit our site: http://www.lockergnome.com/
+
+Don't worry about anything else below this paragraph.
+It's for those with HTML e-mail clients. Just go to
+the above listed web address to view this issue
+perfectly in your web browser. Thanks again! -->
+
+20020718 Lockergnome Tech Specialist
+
+07.18.2002 GnomeREPORT
+
+Keep your Web site working fast and smart with UltraDNS. More reliable
+performance means more traffic, more sales, and more profits. Outsource your
+DNS management and save. Basic DNS for only $1.00 a month.
+Click here to
+find out more.
+
+I thought I baked my Dell PowerEdge 1400SC server yesterday
+when it refused to boot completely. I borrowed a data vac
+from a friend and decided to clean all of the dust and cat
+hair from my systems, then after reconnecting everything,
+the server would boot to the initial splash screen, where
+there is a POST progress bar, but would not proceed past
+past about the first 1/5th of the bar. Uh-oh. What did I
+fry?
+
+As it turns out, it was another case of "always check the
+small stuff". Oh, I had all of the cables plugged back in to
+the server properly, I checked all of that, but it didn't
+dawn on me until about a half dozen boot attempts later that
+I should probably turn an eye toward the other end of the
+cables. That server is connected to an 8-port Compaq KVM
+switch and with all of the yanking, plucking and shuffling,
+the keyboard cable had been eeked out of the switch just a
+tad. Why the server didn't display a keyboard warning
+message like every other computer on the planet, I can only
+attribute to the BIOS developers. Server Satchel, running
+Red Hat Linux 7.2 is now operating as it was previously. The
+penguin is happy. The server case is even black. How
+appropriate...
+
+See You in August, Randy Nieland
+
+GnomeNETWORK
+
+Windows XP Security Checklist
+Finely crafted by Bernie Klinder
+
+http://www.labmice.net/articles/winxpsecuritychecklist.htm
+
+With all of the security features crammed into Windows XP,
+where does one start? Do you need VPN capability? Is NTFS an
+appropriate file system choice for you? Is there any value
+at all in Simple File Sharing? After much hounding, Bernie
+Klinder has drawn up a healthy checklist of things you need
+to address under Windows XP in order to maintain a system
+that is both security and compatible with the rest of your
+computing world.
+
+GnomeSYSTEM
+
+ATI Still Makes Video Cards?
+
+http://www.anandtech.com/video/showdoc.html?i=1656
+
+Say it isn't so! Yes, apparently they do still have
+something to say about NVIDIA's dominance in the video card
+market. Seeing as how they've been all but dumped by the
+majority of top-tier system makers, it's hard to believe
+that they are capable of a serious comeback. Judging from
+what AnandTech has to say about the forthcoming R300-based
+cards, it appears that they haven't thrown in the towel just
+yet. I'm all for competition, so I welcome the effective re-
+entrance into the high end market. Let's all hope that their
+driver development has improved as much as their hardware
+seems to have.
+
+GET WINDOWS XP TIPS: Months after the release of Windows XP Professional and Home editions, people are still learning the nuances of Microsoft's newest operating system. Whether you've been using it for a while or are planning to upgrade to the new OS soon, this ebook is right up your alley.
+GET YOUR COPY
+of Lockergnome's Top 50 Windows XP tips now!
+
+GnomeALERTZ
+
+Today's Top 5 kbAlertz
+
+Q292108 - WD2002: GetSpellingSuggestions Method Does Not List Non-English Language Suggestions (Q292108)
+
+Q290981 - WD2002: "File Conversion Encoding" Dialog Box Appears When You Open Text File (Q290981)
+
+Q290969 - WD2002: Run-Time Error 5 When You Use Mid(), Left(), or Right() Function (Q290969)
+
+Q290967 - WD2002: Cannot Place a Bullet in the Middle of a Sentence or Paragraph (Q290967)
+
+Q201953 - WD2000: Macro to Find Automatic (Soft) Page Breaks (Q201953)
+
+Recommend It!
+GnomeASSISTANT
+
+Technical Censorship
+
+http://news.com.com/2100-1023-944315.html
+
+Odd. I liked that cup of Mocha (spelled M-O-C-H-A and I'll explain in a minute) I drank at Starbucks when Jake and I visited last week, but if I wanted to relay that to someone using a Yahoo email account, you might see an alternate word. Thus the additional hyphenated spelling just in case those of you using Yahoo to subscribe to Lockergnome actually received your issues and the word has been altered to suit their personal opinion of my choice in drinks. They've also had a terrible time interpretting our W3C standardized HTML lately, dropping in copious #message references throughout the text in their new Beta email client. So why the text replacement? It's another filtering technique to stop certain words that might relate to JavaScript functions. I guess I'll have to choose another beverage next time. Silly me.
+
+GnomeSTUFF
+
+Yer Kidding... Really?
+
+http://www.theregus.com/content/4/25629.html
+
+I'm all sorts of sarcastic today, aren't I? Those of us
+that have had to manage budgets are used to dealing with
+math in terms of hardware, software, maintenance and
+personnel costs. It's not really that difficult. It's
+certainly not hard to see that dropping a free version of
+Linux on a server with less hardware requirements just to do
+some file sharing, printing and maybe an Intranet page or
+three is far cheaper than using Windows. At very long last,
+Microsoft has admitted as much. Of course, they're quick to
+point out that they have much more to offer than Linux,
+which may indeed be true. But at the end of the day, when
+you compare donuts to donuts and like functions against one
+another, Linux is cheaper. For a shop of Windows-trained
+staff, dealing with Linux will certainly be a challenge,
+requiring additional training, suffer the odd blunder here
+and there, and be less forgiving when it comes to detailed
+configuration. On the same token, make a Linux whiz use
+Windows and see how quickly you'll be searching for a
+replacement. Cheap is in the budget of the beholder.
+
+Recommend It!
+
+http://www.lockergnome.com/issues/techspecialist/20020718.html
+Your subscribed e-mail address is: [qqqqqqqqqq-lg@example.com] - To unsubscribe or change your delivery address, please visit the subscription management page. For further information, please refer to the GnomeCREDITS in the sidebar.
+
+LOOK OVER HERE
+
+Download Tip eBooks
+
+Latest Windows Daily
+Latest Digital Media
+Latest Tech Specialist
+Latest Penguin Shell
+Latest Apple Core
+Latest Web Weekly
+Latest Bits & Bytes
+Latest Audio Show
+
+Low Price Search
+Our Tech Conference
+
+Microsoft Office Tips
+PC Productivity Tips
+Cool Internet Tips
+Windows 2000 Tips
+Windows XP Tips
+
+Tell a Friend About Us!
+Suggest a Feature
+Advertise With Us
+High-Tech Job Search
+Chat With Gnomies
+Watch The Webcams
+Computer Power User
+
+Read Past Issues
+Download X-Setup
+About Lockergnome
+Our Privacy Policy
+View More Options
+Our XML / RSS Feed
+Syndicate Our Tips
+Link To Lockergnome
+Get Chris's Book
+
+E-mail a Suggestion
+Your Rant / Rave
+General Feedback
+The Editor's Blog
+E-mail the Editor
+
+SOUND SYSTEMS
+Yamaha RX-V1200
+Sony DAVC900
+Harman KardonAVR520
+DenonAVR5803
+Pioneer VSXD811S
+Pioneer EliteVSX49TX
+Sony HTDDW840
+Yamaha HTR5560
+BOSE LS122BK
+Sony DAVC450
+
+GNOMESPECIALS
+Manage Your Workgroup
+Form Pilot
+Say the Time 5.0
+Boomer - Stream Now
+Create Web/CD catalog
+Easy Web Editor
+Kleptomania
+Tag&Rename
+Pretty Good Solitaire
+Visualize Color Combos
+FirstStop WebSearch
+Ecobuilder
+Book Collector
+Get Listed Here
+Question: which group is 250,000+ strong and always looking for stuff to make their personal and professional lives run smoother?
+
+CLICK HERE TO ZOOM
+
+LOOK IT UP
+
+BYTE ME NOW
+
+©2002, Lockergnome LLC. ISSN: 1095-3965. All Rights Reserved. Please read our Terms of Service. Our Web site is hosted by DigitalDaze. Domain registered at DNS Central.
+

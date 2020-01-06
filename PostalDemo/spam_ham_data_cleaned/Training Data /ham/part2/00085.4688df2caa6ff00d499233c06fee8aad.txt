@@ -1,0 +1,45 @@
+Ronan Waide wrote:
+> Having skimmed over the patent, it appears to be describing a sort of
+> image compression algorithm which gels more or less with the JPEG
+> mechanism. Since I don't quite understand how jpeg works (it's hard
+> math, and I'm just a dumb comp. eng.)
+
+It's not hard math - jpeg is a straight block-based DCT with
+quantisation - which is about the oldest image compression
+algorithm out there, and I think certainly predates 1986. So I
+really have no idea what they claim they've patented - doin DCT
+on 8x8 blocks of an image, quantising the resulting coefficients,
+or DCT in general? I'm extremely skeptical about this whole
+story...
+
+> I don't know how exactly it
+> matches up to JPEG. I'm more curious as to whether it covers MPEG,
+> because it /is/ described in the context of video streams rather than
+> stills, and I had a vague impression that the MPEG and JPEG
+> compression techniques were similar. One of the patents it references
+> also seems to hint at MPEG.
+
+MPEG 1, 2, 4 or 7? They're all very different compression
+algorithms.
+
+Anyway, here's to ogg, and hopefully the future mpeg4-standard
+compression algorithm the project comes up with (fingers
+crossed). And I wouldn't worry about the jpeg thing - in addition
+the patent runs out next year, and I would suggest that having
+failed to protect their IP for 15 years, as (iirc) is their
+responsibility, their claim would probably never hold up in
+court.
+
+Cheers,
+Dave.
+
+--
+David Neary,
+Marseille, France
+E-Mail: bolsh@gimp.org
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

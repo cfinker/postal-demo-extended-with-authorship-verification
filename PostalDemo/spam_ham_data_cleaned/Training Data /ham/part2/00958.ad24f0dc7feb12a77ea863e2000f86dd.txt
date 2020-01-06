@@ -1,0 +1,56 @@
+--- begin forwarded text
+
+Date: Sat, 3 Aug 2002 05:26:12 +0100
+From: Adam Back
+To: Cypherpunks
+Cc: Adam Back
+Old-Subject: info-theoretic model of anonymity
+User-Agent: Mutt/1.2.2i
+Subject: info-theoretic model of anonymity
+Sender: owner-cypherpunks@lne.com
+
+Just read this paper published in PET02 "Towards an Information
+Theoretic Metric for Anonymity" [1]:
+
+http://www.cl.cam.ac.uk/~gd216/set.pdf
+orhttp://www.cl.cam.ac.uk/~gd216/set.ps
+
+it uses a Shannon like entropy model for the anonymity provided by a
+system uses this model to analyse the effect of different parameters
+one can tune with mixmaster (POOLSIZE, RATE, in mixmaster.conf).
+
+The "anonymity entropy" measurement can be interpreted as how many
+bits of information the attacker needs to identify a user and is
+computed from probabilities.
+
+Would be interesting to try estimate the entropy provided by the
+current mixmaster network. A number of nodes publish their parameter
+choices, and traffic volume over time (in hourly increments).
+
+Adam
+--
+http://www.cypherspace.org/adam/
+
+[1]
+
+@inproceedings{Serjantov:02:info-theoretic-anon,
+author = "Andrei Serjantov and George Danezis",
+title = "Towards an Information Theoretic Metric for Anonymity",
+booktitle = "Proceedings of the Workshop on Privacy Enhancing Technologies",
+year = "2002",
+note = "Also available as
+\url{http://www.cl.cam.ac.uk/~aas23/papers_aas/set.ps}"
+}
+
+--- end forwarded text
+
+--
+-----------------
+R. A. Hettinga
+The Internet Bearer Underwriting Corporation
+44 Farquhar Street, Boston, MA 02131 USA
+"... however it may deserve respect for its usefulness and antiquity,
+[predicting the end of the world] has not been found agreeable to
+experience." -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
+http://xent.com/mailman/listinfo/fork
+

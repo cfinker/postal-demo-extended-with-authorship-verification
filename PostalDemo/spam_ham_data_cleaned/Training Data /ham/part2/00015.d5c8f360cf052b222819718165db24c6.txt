@@ -1,0 +1,27 @@
+On Wed, 21 Aug 2002 12:42:17 BST, Kiall Mac Innes said:
+>Hi i have a phillips head skrew thats holding a circut board together i need
+>to take it out ASAP and nothing will work, the threads on the skrew are
+>almost completly gone, its is a very small skrew that i have to use a
+>percision skrewdriver set to remove the skrews any help would be
+>appreaciated...
+
+Get a very, *very* small set of drill bits. Start drilling right
+through the center of the head, at a slow speed so you don't pop
+off and through the board! Once you have a bit of an indent in,
+increase the speed a little bit.
+
+If you've made a deepish indent, and the head doesn't pop off, use
+the next largest drill bit you have. Repeat until happy.
+
+Eventually the head should just pop off, allowing you to lift the
+board off over the shaft of the screw... then ye can take out the
+rest fairly easily with a pliers or whatnot.
+
+--
+Niall
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

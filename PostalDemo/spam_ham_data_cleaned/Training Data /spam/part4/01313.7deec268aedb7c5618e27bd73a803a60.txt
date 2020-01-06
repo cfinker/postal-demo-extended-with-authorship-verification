@@ -1,0 +1,36 @@
+BAD MSG:
+
+PAM: -------------------- Start SpamAssassin results ----------------------
+SPAM: This mail is probably spam. The original message has been altered
+SPAM: so you can recognise or block similar unwanted mail in future.
+SPAM: See http://spamassassin.org/tag/ for more details.
+SPAM:
+SPAM: Content analysis details: (9.9 hits, 5 required)
+SPAM: SEARCH_ENGINE_PROMO (2.6 points) BODY: Discusses search engine listings
+SPAM: HTML_50_70 (1.0 points) BODY: Message is 50-70% HTML tags
+SPAM: REALLY_UNSAFE_JAVASCRIPT (3.3 points) BODY: Auto-executing JavaScript code
+SPAM: SUPERLONG_LINE (0.4 points) BODY: Contains a line >=199 characters long
+SPAM: CTYPE_JUST_HTML (1.7 points) HTML-only mail, with no text version
+SPAM: PRIORITY_NO_NAME (1.0 points) Message has priority setting, but no X-Mailer
+SPAM: MSG_ID_ADDED_BY_MTA_3 (0.2 points) 'Message-Id' was added by a relay (3)
+SPAM: AWL (-0.3 points) AWL: Auto-whitelist adjustment
+SPAM:
+
+Hello,
+
+I have visited www.taint.org and noticed that your website is not listed on some search engines.
+I am sure that through our service the number of people who visit your website will definitely increase. SeekerCenter
+is a unique technology that instantly submits your website
+to over 500,000 search engines and directories
+-- a really low-cost and effective way to advertise your site.
+For more details please go to SeekerCenter.net.
+
+Give your website maximum exposure today!
+Looking forward to hearing from you.
+
+Best
+Regards,
+Vanessa Lintner
+Sales & Marketing
+www.SeekerCenter.net
+

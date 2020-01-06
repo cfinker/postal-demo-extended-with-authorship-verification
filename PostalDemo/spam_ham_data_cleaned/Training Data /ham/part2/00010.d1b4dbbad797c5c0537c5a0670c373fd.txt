@@ -1,0 +1,22 @@
+>>>Robert Elz said:
+
+> I kind of doubt that any pre built-in sequence name is going to be
+> very general. Even "unseen" can be changed (fortunately that one
+> is easy to find in the MH profile - though whether exmh does that,
+> os just uses "unseen" I haven't bothered to find out).
+
+exmh uses the profile setting - it appears as mhProfile(unseen-sequence)
+in the code.
+
+--
+Brent Welch
+Software Architect, Panasas Inc
+Pioneering the World's Most Scalable and Agile Storage Network
+www.panasas.com
+welch@panasas.com
+
+_______________________________________________
+Exmh-workers mailing list
+Exmh-workers@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-workers
+

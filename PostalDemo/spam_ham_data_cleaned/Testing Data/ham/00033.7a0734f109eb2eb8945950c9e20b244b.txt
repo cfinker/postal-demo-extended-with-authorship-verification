@@ -1,0 +1,18 @@
+On Sat, 20 Jul 2002 12:06:35 BST, Greg Farrel said:
+>
+>D'oh. I ment to say that I cant use a laptop, as I have a pci wireless
+>card and the cable for it (about 180 dollars). So it has to be a pc, with
+>a pci 2.2 connector (ie some pentiums, and anything above)
+
+There's some place in the UK that sells loads of silent gear...
+can't remember the name though... a google for "silent pc" or the
+like should turn it up.
+
+--
+Niall
+
+--
+Irish Linux Users' Group Social Events: social@linux.ie
+http://www.linux.ie/mailman/listinfo/social for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

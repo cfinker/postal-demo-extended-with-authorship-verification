@@ -1,0 +1,43 @@
+>>>>> On Thu, 25 Jul 2002, "Stephen" == Stephen Hocking wrote:
+
+Stephen> What I'd like to do is use an imap capable mailer to
+Stephen> communicate with an imap server that is serving up my MH
+Stephen> folders. Does anyone know of any Imap servers that can do
+Stephen> this?
+
+This topic comes up every so often on this list. The short answer is
+no, there really isn't an IMAP server which knows how to do this.
+
+The longer answer is, UW-IMAP claims it does, but doesn't do a good
+job, and doesn't update scan caches, unseen, etc.
+
+You may have better luck while on the road using raw mh commands to
+read you e-mail if you have ssh access to your internal environment.
+I've been doing this for quite a long time, and, after the learning
+curve of the mh command set (which I still don't know completely),
+I'm quite able to access my e-mail and respond to those e-mails which
+require a response.
+
+Another option is using mutt as your mail client when you're remotely
+accessing e-mail. Mutt does a decent job of dealing with mh folders,
+though it doesn't update scan caches or unseen files either. But it
+is a decent interface alternative to raw mh, and it's quite
+customizable.
+
+The real answer to your question is that we need not an IMAP server
+that understands mh folders, but an mh server to which a local client
+could connect to. In theory, it shouldn't be too hard (technically)
+to cobble this together with ssh. Replace all of exmh's calls to mh
+commands with a wrapper which uses ssh to lob these commands over to
+a remote system, and dump the output back into the local exmh client.
+
+--
+
+Seeya,
+Paul
+
+_______________________________________________
+Exmh-users mailing list
+Exmh-users@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-users
+

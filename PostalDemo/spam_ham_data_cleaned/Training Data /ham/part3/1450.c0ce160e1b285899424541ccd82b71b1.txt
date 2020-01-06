@@ -1,0 +1,52 @@
+--k3qmt+ucFURmlhDS
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+On Wed, Aug 28, 2002 at 07:42:13PM +0100, Justin Mason wrote:
+> OK guys -- I reckon it's now Good Enough, modulo some minor score
+> tweaking, or commenting of some more broken/high-FP-ing rules.
+>=20
+
+Some make test errors here, too:
+
+Failed 6/20 test scripts, 70.00% okay. 17/182 subtests failed, 90.66% okay.
+
+J
+
+--=20
+Jesus Climent | Unix System Admin | Helsinki, Finland.
+http://www.HispaLinux.es/~data/ | data.pandacrew.org
+------------------------------------------------------
+Please, encrypt mail address to me: GnuPG ID: 86946D69
+FP: BB64 2339 1CAA 7064 E429 7E18 66FC 1D7F 8694 6D69
+------------------------------------------------------
+Registered Linux user #66350 Debian 3.0 & Linux 2.4.19
+
+Look at my fingers: four stones, four crates. Zero stones? ZERO CRATES!
+--Zorg (The Fifth Element)
+
+--k3qmt+ucFURmlhDS
+Content-Type: application/pgp-signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: For info see http://www.gnupg.org
+
+iD8DBQE9bTJMZvwdf4aUbWkRAkpYAKDp15ePjG0prpbb/JSMICw6X3xOegCdGsU8
+tdax7QmKey5Vul5DwFDESVc=
+=lyD1
+-----END PGP SIGNATURE-----
+
+--k3qmt+ucFURmlhDS--
+
+-------------------------------------------------------
+This sf.net email is sponsored by: Jabber - The world's fastest growing
+real-time communications platform! Don't just IM. Build it in!
+http://www.jabber.com/osdn/xim
+_______________________________________________
+Spamassassin-devel mailing list
+Spamassassin-devel@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-devel
+

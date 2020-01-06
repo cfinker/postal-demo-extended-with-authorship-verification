@@ -1,0 +1,28 @@
+[1] Covalent works with Microsoft to provide ASP.NET capabilities for
+Apache 2.0. ASP.NET actually has some really elegant tools for doing
+load testing and analysis. Perhaps Microsoft's desire to embrace, extend, and
+extinguish comes from a scathing Gartner report recommending not to deploy
+IIS for enterprise applications at all. Now users get the best of both
+worlds: all the development tools of ASP.Net and the security and reliability
+of Apache.
+
+Greg
+
+--
+Gregory Alan Bolcer, CTO | work: +1.949.833.2800 | gbolcer at endeavors.com
+Endeavors Technology, Inc. | cell: +1.714.928.5476 | http://endeavors.com
+
+[1]http://www.infoworld.com/articles/hn/xml/02/07/25/020725hnapachenet.xml
+
+> With help from Microsoft in Redmond, Wash., Covalent said it was able to develop a
+
+> module for its Enterprise Ready Server that would allow ASP.Net applications to run on
+
+> Apache 2.0. However, organizations that use the freely available Web server won't be able
+
+> to run ASP.Net applications unless they purchase Covalent's software. Zemlin said that the
+
+> company doesn't plan to release an open-source version of its .Net module.
+
+http://xent.com/mailman/listinfo/fork
+

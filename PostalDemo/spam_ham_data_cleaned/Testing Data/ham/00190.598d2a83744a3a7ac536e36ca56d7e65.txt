@@ -1,0 +1,41 @@
+| Date: Wed, 31 Jul 2002 15:13:23 +0100
+| From: Ronan Cunniffe
+|
+| Um, my test was to tee to a fifo I didn't read from... resulting
+| in the other reader hanging around forever.... not realising that
+| never-opened-for-reading and opened-and-later-closed might be
+| different.
+
+ah! yes! this is one of those gotchas everyone stumbles
+over. the writer of a never-opened-for-reading pipe will
+quickly block (as soon as the pipe's limited buffer fills
+up). but the writer of opened-and-later-closed pipe gets
+an EPIPE error (and the usually-terminal SIGPIPE signal).
+
+the typical stumble is someone creates an anonymous pipe
+with pipe(2), but forgets to close(2) the reader's fd in
+the writer-process (or visa-versa) .... and then wonders
+why the real reader never sees an EOF and/or the writer
+is never gets an EPIPE/SIGPIPE. various FAQs and many
+books probably discuss this topic in depth to the death.
+
+| Sensible behaviour has now been observed.
+
+good! and good luck.
+cheers,
+-blf-
+--
+«How many surrealists does it take to | Brian Foster Dublin, Ireland
+change a lightbulb? Three. One calms | e-mail: blf@utvinternet.ie
+the warthog, and two fill the bathtub | mobile: (+353 or 0)86 854 9268
+with brightly-coloured machine tools.» | http://www.blf.utvinternet.ie
+
+Stop E$$o (ExxonMobile): «Whatever you do, don't buy Esso --- they
+don't give a damn about global warming.» http://www.stopesso.com
+Supported by Greenpeace, Friends of the Earth, and numerous others...
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

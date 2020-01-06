@@ -1,0 +1,34 @@
+Mornin' all,
+Last night, i was involved in an epic struggle to write a shell
+script to do a certain task. The battle raged for hours, but, i'm glad
+to inform you, i emerged victorious. The problem was as follows:
+It's very easy to get one program to act on the output of a second
+program: cmd1 | cmd2. But, what if you want cmd1 to act on the output of
+cmd2 as well? Hmm. Eventually, I came up with this solution:
+
+mkfifo io
+cmd1 io
+
+and bingo, all was well with the world. Now, I have (and had) a sneaking
+suspcion that it might be possible to do this without using a fifo, and
+can be done using something like:
+
+exec 3>&1
+cmd1 &3
+exec 3>&-
+
+but that doesn't work in that form, and i couldn't work out an
+incantation that would. Anyone got any suggestions? Anyway, victory is
+mine, and i is happy person once again. In case you were wondering, the
+aim of all of this was to write a shell script that could check for new
+mail on an imap server.
+
+Steve
+--
+"Oh look, it's the Pigeon of Love."
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

@@ -1,0 +1,81 @@
+--==_Exmh_566017948P
+Content-Type: multipart/mixed; boundary="----- =_aaaaaaaaaa0"
+Content-Id:
+
+------- =_aaaaaaaaaa0
+Content-Type: text/plain; charset="us-ascii"
+Content-ID:
+
+Am I the only one for whom typing control-L to the main window causes this
+error?
+
+I can't figure out why it occurs.
+
+Chris
+
+------- =_aaaaaaaaaa0
+Content-Type: message/rfc822
+Content-ID:
+Content-Description: forwarded message
+
+Return-Path:
+Delivered-To: cwg-exmh@deepeddy.com
+Received: (qmail 17767 invoked from network); 24 Jul 2002 21:29:14 -0000
+Received: from localhost (HELO deepeddy.vircio.com) ([127.0.0.1]) (envelope-sender )
+by localhost (qmail-ldap-1.03) with SMTP
+for ; 24 Jul 2002 21:29:14 -0000
+To: cwg-exmh@deepeddy.com
+Subject: error exmh 2.5 07/13/2001
+Date: Wed, 24 Jul 2002 16:29:12 -0500
+From: Chris Garrigues
+Message-ID:
+X-Delivery-Agent: TMDA/0.57
+
+Wed Jul 24 16:29:12 CDT 2002
+cwg got an error
+Exmh version 2.5 07/13/2001
+TK version 8.3.3
+TCL version 8.3.3
+Linux deepeddy.vircio.com 2.4.18-ac2v5 #1 SMP Sun Mar 31 07:41:15 CST 2002 i686 unknown
+
+bad text index "header + 1 line"
+while executing
+"$t index "header + 1 line""
+(procedure "SeditBeautify" line 3)
+invoked from within
+"SeditBeautify .msg.t"
+(command bound to event)
+
+------- =_aaaaaaaaaa0
+Content-Type: text/plain; charset="us-ascii"
+Content-ID:
+
+--
+Chris Garrigues http://www.DeepEddy.Com/~cwg/
+virCIO http://www.virCIO.Com
+716 Congress, Suite 200
+Austin, TX 78701+1 512 374 0500
+
+World War III: The Wrong-Doers Vs. the Evil-Doers.
+
+------- =_aaaaaaaaaa0--
+
+--==_Exmh_566017948P
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: Exmh version 2.2_20000822 06/23/2000
+
+iD8DBQE9Pxy8K9b4h5R0IUIRAnOgAJ0Uw/GSsuOnUXG7x5WtJOJIYYweqgCghNc3
+9HJtUPNX1D90p7rGch2Ry38=
+=0Che
+-----END PGP SIGNATURE-----
+
+--==_Exmh_566017948P--
+
+_______________________________________________
+Exmh-workers mailing list
+Exmh-workers@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-workers
+

@@ -1,0 +1,41 @@
+I upgraded from RH 7.2 to RH 7.3 over the weekend and now the network card
+has died, when I take a look at the network configuration tool it tells me
+the card is inactive and when I try to activate it the operation fails. I
+cant seem to find 3C905C software on the web ! Any ideas ?
+
+Cheers
+Liam
+
+************************************************************
+
+E-mail Disclaimer:
+
+This e-mail message and any attachments may contain information, which is
+confidential , privileged or commercially sensitive, the content of which
+may not be disclosed or used by anyone other then the named addressee. If
+you have received this e-mail in error please notify the sender immediately
+and delete this e-mail from your system.
+
+BGE does not accept any responsibility for the accuracy or completeness of
+the contents of this e-mail or its attachments or for any statements or
+contractual commitments contained in this e-mail or its attachments. BGE
+cannot guarantee that the message or any attachment is virus free or has not
+been intercepted, corrupted or amended. Therefore, BGE denies all liability
+for any breach of confidence, loss or damage that may be suffered by the
+recipient and any person opening it.
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it is prohibited
+and is unlawful.
+
+Thank you for your attention.
+
+Visit our website www.bge.ie
+
+************************************************************
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

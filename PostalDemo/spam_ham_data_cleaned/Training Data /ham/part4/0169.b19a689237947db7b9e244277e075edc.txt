@@ -1,0 +1,14 @@
+Hi
+
+I try to rebuild xine from src package and I get these errors:
+
+.
+.
+.
+.
+.
+Finding Provides: /usr/lib/rpm/find-provides
+Finding Requires: /usr/lib/rpm/find-requires
+PreReq: rpmlib(PayloadFilesHavePrefix)
+http://lists.freshrpms.net/mailman/listinfo/rpm-list
+

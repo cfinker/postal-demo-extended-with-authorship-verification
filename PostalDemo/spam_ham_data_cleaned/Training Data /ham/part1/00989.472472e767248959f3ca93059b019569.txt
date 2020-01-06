@@ -1,0 +1,20 @@
+>>>>> "L" == Luis Villa writes:
+
+L> ... So, yeah, it's a new attack, but it's not nearly as
+L> devastating an MS critique as the author wants us to believe
+
+Good to know ... not being an MS user, I have no means to evaluate
+these things so it's best to get a second opinion ;)
+
+Besides, I shudder to think of the pandemonium that would ensue if we
+had to /deploy/ the present states of Lycoris or Lindows in it's
+stead! As the Big Joe Williams song goes, "Next week, sometime, but
+no, not now."
+
+--
+Gary Lawrence Murphy TeleDynamics Communications Inc
+Business Innovations Through Open Source Systems: http://www.teledyn.com
+"Computers are useless. They can only give you answers."(Pablo Picasso)
+
+http://xent.com/mailman/listinfo/fork
+

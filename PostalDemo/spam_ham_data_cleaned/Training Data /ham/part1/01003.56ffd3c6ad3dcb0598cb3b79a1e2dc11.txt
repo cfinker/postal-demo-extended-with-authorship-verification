@@ -1,0 +1,42 @@
+--==_Exmh_9304186P
+Content-Type: text/plain; charset=us-ascii
+
+On Wed, 11 Sep 2002 12:17:33 PDT, Brent Welch said:
+
+> >>>Hacksaw said:
+
+> > When I receive a gpg encrypted message, and it asks me for a passphrase,
+> it
+> > first tries to ask me via the tty under which exmh is running. It tells
+>
+Hmm.. I've seen the *opposite* issue - if I go to *SEND* a signed message,
+sometimes Exmh will put up the dialog box, but fail to set keyboard focus
+there, so no passphrase can be entered. Of course, hitting 'return' doesnt
+work so you need to click the 'OK' box, at which point it finds that the
+passphrase that wasn't entered doesn't work, and asks again, this time with
+proper focus set.
+
+I suspect some variable/codepath is getting hosed for the focus, or possibly
+some borkedness with --no-tty and/or --status-fd flags to gnupg.
+
+/Valdis
+
+--==_Exmh_9304186P
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.7 (GNU/Linux)
+Comment: Exmh version 2.5 07/13/2001
+
+iD8DBQE9f575cC3lWbTT17ARApK5AKD+PToDpgdcd0Ore2BwJ1qVakfMDgCcDRsa
+HqcPiRZRSxFvAQBe+Ma1qmY=
+=lXe4
+-----END PGP SIGNATURE-----
+
+--==_Exmh_9304186P--
+
+_______________________________________________
+Exmh-workers mailing list
+Exmh-workers@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-workers
+

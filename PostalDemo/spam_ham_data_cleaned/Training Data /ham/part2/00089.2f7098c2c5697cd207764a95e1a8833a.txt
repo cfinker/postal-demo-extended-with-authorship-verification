@@ -1,0 +1,12 @@
+Has anyone used (successfully!) a fat undelete program on Linux ?
+
+Something like a simple version of the norton disk tools would be fine.
+Actually, most likely the MS DOS "undelete" program would do...
+
+Kate
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

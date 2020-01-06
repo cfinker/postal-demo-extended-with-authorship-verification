@@ -1,0 +1,399 @@
+Download Dispatch - PC Edition
+
+Downloads
+All
+CNET
+The
+Web
+
+In Utilities:
+ESftp 4.1
+
+In Home & Desktop:
+CursorXP 1.2
+
+In Audio:
+Acoustica CD Label Maker 1.13
+DJ 2000 1.6
+
+In Internet:
+ICQ 2002a Build #3728
+
+In Multimedia:
+AI Picture Utility 6.2.1
+PhotoJam 3.0
+
+In Web Authoring:
+Webserver Stress Tool 5.32
+
+In Games:
+David's Backgammon 4.6.1
+
+Want to search for updates automatically? Click here to try out CNET CatchUp,
+a free service that scans your system and points you to the latest software updates.
+
+Most Popular Upgrades:
+
+1.
+
+ZoneAlarm Pro 3.0
+
+2.
+
+Norton AntiVirus 2002
+
+3.
+
+AdSubtract Pro 2.5
+
+4.
+
+Microsoft Windows XP - Professional
+
+5.
+
+Nero Burning ROM 5.5
+
+6.
+
+Reason 2.0
+
+7.
+
+Microsoft Windows XP - Home Edition
+
+8.
+
+QuickBooks Pro 2002
+
+9.
+
+Adobe Photoshop 7.0
+
+10.
+
+WinZip 8.1
+
+Find a
+complete list of the 50 most popular software products at
+CNET
+Shopper.com.
+
+Summer 2002 software
+Test your bandwidth
+New jobs, click here!
+Inside HP
+Bluetooth: speeds up
+
+July 9, 2002
+
+Browse or bust
+
+Through daily use I've found that Mozilla and Opera Web browsers beat Internet Explorer because of two features: tabbed windows and built-in pop-up killers. But occasionally I hit a site that has features that don't work or has a messed up layout, so I have to launch IE to view it correctly. In the last couple of years, Web builders have used proprietary code from Microsoft in their sites, which Mozilla and Opera don't support.
+
+I used to cover Web building, so I have plenty of insight into the problem. Using current, standard HTML and JavaScript, Web builders can make a Web site do almost anything that you could with Microsoft's proprietary code. The only things they can't do are goofy enhancements such as changing the browser scroll bar colors. To solve this compatibility problem, either Web builders have to take proprietary tags out of their sites or users have to use IE to view them. You can also enhance IE with utilities such as Secure IE to get the kinds of features offered by Mozilla and Opera, giving you the best of both worlds.
+
+Who do you think should be solving problems of Web site incompatibility: Web builders, users, or browser manufacturers? Let me know at edit@download.com.
+
+Wayne Cunningham
+Features Editor, CNET Download.com
+
+Is your ISP safe from hack attacks?
+Surely, the folks who run your ISP have thought long and
+hard about security issues, but should you count on them to
+ward off intruders? Not wise, says our ISP expert. In this
+week's column, Dan Tynan takes security matters into his own
+hands and shows you how to protect yourself.
+
+Two apps that bring the iPod to the PC
+That's right, Windows users. If you've been drooling over
+Apple's lovely little MP3 player, you're in luck. Not one
+but two software apps bring iPod compatibility to your
+FireWire-equipped PC. EphPod and XPlay square off in this
+battle of cross-platform compatibility.
+
+Download Launchpad
+
+-->
+New products from our
+sponsors
+
+Say the Time
+Say the Time is the newest evolution of the cuckoo clock.
+Hear the time, set multiple alarms, customize the look of
+your taskbar clock, sync your PC with an atomic clock
+server, and more. Try it free.
+
+Ashampoo WinOptimizer Suite
+Find redundant files, clean up
+your Registry, recover space on your hard disks, and
+optimize Windows performance.
+
+All Download Launchpad
+titles powered by Download Express--CNET's new speedy download
+service!
+
+As KaZaA continues to maintain its stranglehold on
+No.1, BearShare continues its climb up the list to No. 6 .
+
+Most Popular Titles
+
+Week ending July 9
+
+Last Week
+Weeks on Chart
+Downloads This
+Week
+
+1.
+
+KaZaA
+Media Desktop
+
+1
+
+10
+
+1,839,092
+
+2.
+
+Morpheus
+
+2
+
+62
+
+742,235
+
+3.
+
+ICQ
+2002a
+
+3
+
+250
+
+445,174
+
+4.
+
+WinZip
+
+4
+
+299
+
+362,230
+
+5.
+
+iMesh
+
+5
+
+115
+
+305,699
+
+6.
+
+BearShare
+
+7
+
+73
+
+214,030
+
+7.
+
+Ad-aware
+
+6
+
+43
+
+140,849
+
+8.
+
+Download Accelerator
+
+8
+
+134
+
+136,510
+
+9.
+
+Qtraxmax
+
+18
+
+3
+
+134,426
+
+10.
+
+CNET CatchUp
+
+12
+
+114
+
+82,420
+
+Here are some of the
+fastest-rising downloads on our Most Popular list.
+
+Top Movers
+
+The Rundown
+
+1.
+Nero Burning ROM
+
+This CD recording software is one of
+the top sellers at Shopper.com and clearly it's also
+popular at Downloads as it moves up 5 spots to No. 23.
+
+2.
+DocCommander
+
+Enhancing the Open and Save pop-ups in
+Windows seems to be on users' wish lists as this utility
+moves up 7 spots to No. 29.
+
+3.
+SWiSH
+
+Adding Flash animations to your Web site is always
+a good eye-catcher, so it's no surprise that this app has
+started to rise, moving up 7 spots to No. 31.
+
+4.
+Grand Theft Auto 2
+
+The latest update for this game spurs
+even more interest in an already wildly popular series,
+moving up 9 spots to No. 33.
+
+5.
+IncrediMail Xe
+
+This customizable e-mailer continues to
+be popular with its personal look and makes a showing
+on the list at No. 40.
+
+Want more? See our Top 50
+downloads.
+
+In Audio
+
+Quintessential Player 3.4
+License: FreeFile size:
+2.48MBMinimum requirements: Windows 95/98/Me/NT/2000/XP
+Tailor your PC music experience with this skinnable audio
+player that offers a vast array of plug-ins. Use the basic
+player in the background while you work on other apps, or
+perform a variety of operations from CD burning to playlist
+organizing or even processing with DSP effects.
+
+Want to review Quintessential Player? Submit your opinion here.
+
+In Utilities
+
+RAM Idle Professional 2.0
+License: Free to try; $19.95 to buyFile size:
+1.18MBMinimum requirements: Windows 95/98/Me/NT/2000/XP
+Does your computer suffer from long lag times when you open
+programs or load Web pages, choppy multimedia
+playback, crashes, or other symptoms of memory loss? Recover
+system memory and optimize your cache with this cure
+for computer amnesia.
+
+Want to review RAM Idle Professional? Submit your opinion here.
+
+In Home & Desktop
+
+Enterprise Theme 2.0
+FreeFile size:
+1.71MBMinimum requirements: Windows 98
+
+"Star Trek" fans have another reason to wear pointy ears and
+learn Klingon. The latest iteration of the "Star Trek"
+franchise takes us back to the origins of Federation space
+exploration, in a time before Kirk or Picard. Now you can
+teleport your desktop there as well with this theme
+featuring sounds, icons, wallpapers, and more from the
+newest "Star Trek" show, "Enterprise."
+
+Want to review Enterprise Theme? Submit your opinion here.
+
+In Games
+
+Magic: The Gathering Online 1.0
+FreeFile size:
+309MB
+
+The popular trading card game has gone online. Featuring
+hundreds of cards and an Internet full of opponents, plus
+tournaments and leagues, the action can continue
+indefinitely. And future expansion packs ensure that the
+level of gameplay stays fresh.
+
+Want to review Magic: The Gathering? Submit your opinion here.
+
+In Web Authoring
+
+CoffeeCup HTML Editor 9.3
+Free to try; $49 to buyFile size:
+6.81MBMinimum requirements: Windows 95/98/NT/2000/XP
+
+Brew up a Web site that will have your users asking for a
+second cup with this full-featured, easy-to-use HTML editor.
+This program comes packed with prebuilt graphics, icons,
+photos, and JavaScript templates. You'll also find a frame
+designer, a table designer, a font designer, a built-in FTP
+client, and multipage support. Version 9.3 includes
+additional JavaScript templates, a built-in Flash text
+wizard, and right-click FTP functionality.
+
+Want to review CoffeeCup HTML Editor? Submit your opinion here.
+
+Last week I asked whether Audiogalaxy could survive only offering non-infringing files. Here are a few of your answers:
+
+"Doomed. Completely, absolutely, utterly!"
+Just about everyone agreed that Audiogalaxy is as dead as Napster.
+
+"Each time a file-sharing service is canceled, a bunch of new ones appear."
+But some people always find a silver lining.
+
+"I might use a file-sharing service for a lot of things, particularly drivers, fixes, and patches."
+A P2P network offering drivers seems like a great idea to me.
+
+"I was an occasional Audiogalaxy participant (birthday CD burned to include songs that were hits the year you were born). Now I'll just opt for a birthday card and a bottle of wine."
+I included this comment because I really like the birthday idea.
+
+"It seems once again rather than release a file download site for music, at a fee per download, the music companies spend money on trying to stop download sites like Audiogalaxy."
+With its popularity, file swapping should be an amazing opportunity for record companies, but they must not be smart enough to figure out how to make it work.
+
+The e-mail address for your subscription is
+
+Unsubscribe |
+Manage My Subscriptions
+| FAQ |
+Advertise
+
+Price comparisons |
+Product reviews |
+Tech news |
+Downloads |
+All CNET services
+
+Copyright 2002 CNET Networks, Inc. All rights reserved.
+

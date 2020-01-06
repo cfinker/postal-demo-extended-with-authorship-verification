@@ -1,0 +1,32 @@
+>
+> I am getting some strange messages from EXMH 2.5.
+> Since I just finished reinstalling it, I dont see how something could be
+> missing. Here is the message:
+>
+> When the Compose or Reply windows first come up, I get a popup that says:
+> Invalid I-spell style: 'extr switch with no body' changing to underline
+>
+> Any thoughts??? I this complaining about a EXMH routine being missing?
+> Or What???
+> --
+> Reg.Clemens
+> reg@dwf.com
+>
+>
+
+Let me answer my own question.
+This seems to be a problem in tk8.4.
+There is a switch statement at lines 691-697 in ispell.tcl inside a catch.
+It ends with a line ending with a backslash, followed by a blank line.
+
+This seems to be enough to confuse this verson of tk. Removing the backslash
+causes the error to go away, and the catch is not executed.
+--
+Reg.Clemens
+reg@dwf.com
+
+_______________________________________________
+Exmh-users mailing list
+Exmh-users@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-users
+

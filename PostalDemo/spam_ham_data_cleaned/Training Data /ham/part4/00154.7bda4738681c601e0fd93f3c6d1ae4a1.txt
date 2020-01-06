@@ -1,0 +1,18 @@
+On Tue, Jul 30, 2002 at 11:28:11AM +0200, David Neary mentioned:
+> For example, say I have a company, and sales@company.com,
+> info@company.com and tech@company.com arrive in the same mailbox.
+> I don't want to reply to sales@company.com mails with the From:
+> set to dave@company.com, I would like the mail to come from
+> sales@company.com.
+
+Best thing to do would be to have each of those addresses going to a
+different folder, then set your "from" address based on the folder you are
+in, when replying.
+
+john
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

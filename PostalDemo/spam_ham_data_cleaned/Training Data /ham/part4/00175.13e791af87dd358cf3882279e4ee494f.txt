@@ -1,0 +1,36 @@
+On Wed, Jul 31, 2002 at 12:51:29 +0200, David Neary wrote:
+> SoloCDM wrote:
+> > Are there any mailing lists (non-newsgroups) for C++ and C Beginners
+> > and Advanced programmers?
+>
+> For C++, I would guess that the comp.lang.c++ FAQ is a good place
+> to start - they're likely to have links to suggested reading
+> material.
+>
+> If you're going to do any amount of C programming, you should
+> think about getting K&R2 (The C programming language, 2nd
+> edition, by Kernighan and Ritchie), for C++ the equivalent book
+> is Stroustrup. Although the C++ book is a lot bigger :)
+
+For C++, guru of the week at
+http://www.gotw.ca/gotw/index.htm (can get them in book form and
+with extra material as Herb Sutters Essential C++ and More Essential C++)
+is a good resource.
+
+Scott Meyers Effective C++, More Effective C++ and Effective STL
+are truly handy books.
+
+I always felt that The C++ faq wasn't as good as the C faq, but
+it lives at http://www.parashift.com/c++-faq-lite/
+
+C.
+--
+Caolan McNamara | caolan@skynet.ie
+http://www.skynet.ie/~caolan | +353 86 8161184
+Verbing weirds language
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

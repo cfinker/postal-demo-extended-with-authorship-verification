@@ -1,0 +1,55 @@
+--==_Exmh_-1233982810P
+Content-Type: text/plain; charset=us-ascii
+
+> From: Brent Welch
+> Date: Thu, 18 Jul 2002 08:13:53 -0700
+>
+> Unfortunately, an unattributed patch may or may not be a contributed patch
+> as I'm not always good about recording the source of a patch. I suspect
+> this patch may have been contributed from someone that uses the
+> auto-pack or auto-sort features, which I don't use. This change should be
+> tested against those features.
+
+I'm running with autosort right now. If I don't see any problems, I' run with
+autopack for a while.
+
+I did find some stuff that was being called too many times when auto-sort was
+enabled, but otherwise it seems to be working.
+
+My computer is a lot faster than the last time I tried autosort (back in the
+mid-90s); this is actually acceptable.
+
+Once I've confirmed that nothing actually breaks, I think I'll look into a few
+more places that autosort needs to be called, because right now it only sorts
+when you change to a folder, but if a new message arrives in the folder you're
+looking at, it doesn't get sorted.
+
+Chris
+
+--
+Chris Garrigues http://www.DeepEddy.Com/~cwg/
+virCIO http://www.virCIO.Com
+716 Congress, Suite 200
+Austin, TX 78701+1 512 374 0500
+
+World War III: The Wrong-Doers Vs. the Evil-Doers.
+
+--==_Exmh_-1233982810P
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: Exmh version 2.2_20000822 06/23/2000
+
+iD8DBQE9QAhdK9b4h5R0IUIRArP5AJ9VlUsxOjQhik1UZuFl1Yyta0XMFgCgiZw4
+VdvKT009spZK/h2q6HJTqX8=
+=+Ns2
+-----END PGP SIGNATURE-----
+
+--==_Exmh_-1233982810P--
+
+_______________________________________________
+Exmh-workers mailing list
+Exmh-workers@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-workers
+

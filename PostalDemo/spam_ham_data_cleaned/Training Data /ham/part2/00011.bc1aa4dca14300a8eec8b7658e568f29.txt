@@ -1,0 +1,13 @@
+Hi!
+
+Is there a command to insert the signature using a combination of keys and not
+to have sent the mail to insert it then?
+
+Regards,
+Ulises
+
+_______________________________________________
+Exmh-users mailing list
+Exmh-users@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-users
+

@@ -1,0 +1,69 @@
+--_===6628399====mx1.yipes.com===_
+Content-Type: text/plain
+
+This is a warning message only.
+Your message remains in the server queue,
+the server will try to send it again.
+You should not try to resend your message now.
+
+Message delivery to 'casimir@tgsnopec.com' delayed
+SMTP module(domain tgsnopec.com) reports:
+relay.tgsnopec.com: no response
+
+--_===6628399====mx1.yipes.com===_
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mx1.yipes.com
+
+Original-Recipient: rfc822;casimir@tgsnopec.com
+Final-Recipient: rfc822;casimir@tgsnopec.com
+Action: delayed
+
+--_===6628399====mx1.yipes.com===_
+Content-Type: text/rfc822-headers
+
+Received: from [216.136.171.252] (HELO usw-sf-list2.sourceforge.net)
+by mx1.yipes.com (CommuniGate Pro SMTP 3.5.1)
+with ESMTP-TLS id 6627220 for casimir@tgsnopec.com; Thu, 05 Sep 2002 01:35:26 -0700
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13] helo=usw-sf-list1.sourceforge.net)
+by usw-sf-list2.sourceforge.net with esmtp (Exim 3.31-VA-mm2 #1 (Debian))
+id 17mryq-0000eK-00; Thu, 05 Sep 2002 01:27:12 -0700
+Received: from hippo.star.co.uk ([195.216.14.9])
+by usw-sf-list1.sourceforge.net with smtp (Exim 3.31-VA-mm2 #1 (Debian))
+id 17mryb-000529-00
+for ; Thu, 05 Sep 2002 01:26:58 -0700
+Received: from MATT_LINUX by hippo.star.co.uk
+via smtpd (for usw-sf-lists.sourceforge.net [216.136.171.198]) with SMTP; 5 Sep 2002 08:17:57 UT
+Received: (qmail 28723 invoked from network); 3 Sep 2002 08:22:05 -0000
+Received: from unknown (HELO startechgroup.co.uk) (10.2.100.178)
+by matt?dev.int.star.co.uk with SMTP; 3 Sep 2002 08:22:05 -0000
+Message-ID:
+From: Matt Sergeant
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.1b) Gecko/20020901
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: "Rose, Bobby"
+CC: Justin Mason ,
+spamassassin-talk@lists.sourceforge.net
+Subject: Re: [SAtalk] [OT] Perl problem and 2.40 released
+References:
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+Sender: spamassassin-talk-admin@example.sourceforge.net
+Errors-To: spamassassin-talk-admin@example.sourceforge.net
+X-BeenThere: spamassassin-talk@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help:
+List-Post:
+List-Subscribe: ,
+
+List-Id: Talk about SpamAssassin
+List-Unsubscribe: ,
+
+List-Archive:
+X-Original-Date: Thu, 05 Sep 2002 09:23:11 +0100
+Date: Thu, 05 Sep 2002 09:23:11 +0100
+
+--_===6628399====mx1.yipes.com===_--
+

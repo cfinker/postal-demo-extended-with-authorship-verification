@@ -1,0 +1,32 @@
+On Sun, Jul 21, 2002 at 07:06:06PM +0100, John Gay wrote:
+> I am wondering if the C, and other libraries should be re-built? Can they
+> take advantage of the Pentium and MMX instructions for system performance?
+> And would this require re-building gcc as well?
+
+glibc is a likely candidate.
+
+> On a related note, I know I've mentioned here before, but I'm still looking
+> for a Slot 1 550Mhz PIII. My regular system is a Dual PII350 and the 440BX
+> M/B can take PIII's. I managed to get my hands on one. If I could get another
+> I could put the two PIII's into this box and re-compile X to use the
+> SSE/Katmai instructions in the PIII. I just don't thing it is worth replacing
+> two PII's with one PIII. I know that they are out-of-stock, and I do watch
+> the Buy-N-Sell regularly, but short of buying a full PIII system, I've not
+> had much luck.
+
+Keep an eye on eBay. One annoyance of eBay is that many sellers state "will
+ship to US only". However, I've found that if you ask nicely, they will
+usually ship over here. For payments, either setup a paypal account or
+post the seller a US dollar bank draft. I've got lots of little bits and
+pieces that way (for example, finally got my hands on a rackmount kit for
+my DECserver 700 terminal server which I'd been looking for for ages, for
+a total of US$15).
+
+Later,
+Kenn
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

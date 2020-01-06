@@ -1,0 +1,91 @@
+http://www.lockergnome.com/issues/webmaster/20020719.html
+
+To unsubscribe, please e-mail the following address:
+leave-lgweb-2534373J@sprocket.lockergnome.com
+
+To resubscribe, visit our site: http://www.lockergnome.com/
+
+Don't worry about anything else below this paragraph.
+It's for those with HTML e-mail clients. Just go to
+the above listed web address to view this issue
+perfectly in your web browser. Thanks again! -->
+
+20020719 Sausage Sizzler - Lockergnome - Webmaster Weekly
+
+07.19.2002 WebREPORT
+
+Content Management Is Key: Need a reason your boss should be sending you to Gnomedex? Some of the leading experts on content management solutions (those things we affectionately call blogs) will be sharing the future of blogging and how you can adapt it to both the way you do business and the way you communicate in general. Join Evan Williams and Doc Searls as they share pearls of wisdom on blogging, Linux and other open source applications that are changing our lives. If that's not enough incentive, remind the boss that THE Internet security guru, Steve Gibson, will be sharing his wisdom as well.
+Register for Gnomedex today!
+
+This year's SIC gets the blame for the
+lateness of this issue. Lori and I spent Wednesday thru Sunday meeting
+software authors, participating in educational sessions, viewing product
+demonstrations, and most of all having fun. This was Lori's second trip
+to an SIC conference, so she got to reacquaint herself with many familiar
+faces, while I was getting to put faces with many people I've exchanged
+e-mails with over the last several years. As much as I enjoy information
+exchange via computer, the human interaction of meeting people and
+sharing ideas and stories face-to-face is priceless.
+
+One cool discovery at this year's SIC, pertaining directly to Webmasters,
+is Nick Bradbury's release of
+TopStyle 3.0.
+Nick's the guy who created HomeSite, long before it joined the Macromedia
+family of products. Version 3 represents a return to those HTML editing
+roots, with the addition of editing capabilities now functioning
+hand-in-hand with the rock solid style sheet building features that
+previously defined TopStyle. Conversion of existing font tags to CSS is
+just one of several new additions. I should have a full review in one of
+the next two issues.
+
+Also in the coming soon category - a GnomeTome on Cold Fusion, written by
+one of Iowa's resident ColdFusion experts (who also happens to be an
+expert on an International level), Kevin Schmidt. Kevin wrote the
+
+General Feedback
+E-mail the Editor
+Jake's Blog
+
+Our XML / RSS Feed
+Syndicate Our Tips
+Link To Lockergnome
+
+SOUND SYSTEMS
+Yamaha RX-V1200
+Sony DAVC900
+Harman KardonAVR520
+DenonAVR5803
+Pioneer VSXD811S
+Pioneer EliteVSX49TX
+Sony HTDDW840
+Yamaha HTR5560
+BOSE LS122BK
+Sony DAVC450
+
+GNOMESPECIALS
+Manage Your Workgroup
+Form Pilot
+Say the Time 5.0
+Boomer - Stream Now
+Create Web/CD catalog
+Easy Web Editor
+Kleptomania
+Tag&Rename
+Pretty Good Solitaire
+Visualize Color Combos
+FirstStop WebSearch
+Ecobuilder
+Book Collector
+Get Listed Here
+Question: which group is 250,000+ strong and always looking for stuff to make their personal and professional lives run smoother?
+
+LOOK IT UP
+
+CREDITS
+
+©2002, Sausage Software and Lockergnome LLC. All Rights Reserved. Nathan Allan, the Sausage Crew and Lockergnome Lunatics spin all the content. Please read our Terms of Service.
+
+Search Past Issues:
+
+GETTING PAID WHAT YOU ARE WORTH? Change your career - or get a better one! Your dream job could be a mouse click away. Visit our job search page for a position with a future. Find a new career today!
+

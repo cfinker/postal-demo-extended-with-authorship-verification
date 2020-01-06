@@ -1,0 +1,36 @@
+Lacking a DOS boot disk, I just looked for a different way to do it
+yesterday. You can use
+lilo -u /dev/hda
+
+Sourced via google search "remove lilo" which returned
+http://support.microsoft.com/default.aspx?scid=KB;EN-US;q315224&
+
+Much handier if you only have tomsrtbt or something similar.
+
+jr
+
+----- Original Message -----
+From: "jac1"
+To:
+Sent: Wednesday, July 31, 2002 2:30 PM
+Subject: [ILUG] removing lilo
+
+> hi,
+> i recently had to wipe linux from my pc but forgot to restore the original
+> MBR (NT). Anyone know how i can do this? linux is entirely gone and no
+boot
+> floppy. formatting the entire disk doesn't do it either.
+>
+>
+>
+> --
+> Irish Linux Users' Group: ilug@linux.ie
+> http://www.linux.ie/mailman/listinfo/ilug for (un)subscription
+information.
+> List maintainer: listmaster@linux.ie
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

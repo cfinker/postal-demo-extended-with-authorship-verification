@@ -1,0 +1,16 @@
+Eugene Leitl:
+>Users don't like entering passphrases when sending email.
+
+If you're using the mail client on your personal
+machine, there's no reason you would need to enter
+a passphrase, unless that is part of how you secure
+the data on your personal machine. You're private
+key is as secure as any other data on your machine.
+If you're working remotely, you already have to
+enter a passphrase to get to your email.
+
+_________________________________________________________________
+Send and receive Hotmail on your mobile device: http://mobile.msn.com
+
+http://xent.com/mailman/listinfo/fork
+

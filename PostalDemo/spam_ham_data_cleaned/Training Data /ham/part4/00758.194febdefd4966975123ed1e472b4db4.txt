@@ -1,0 +1,15 @@
+There was also an interface called plum, but I was never able to get it
+to work on the platform I was using in those days (SGI). Since plum
+was written for perl4, it would probably need a major overhaul to work
+well with modern Perl. It's pretty ugly code, too, being written by
+Tom Christiansen. :-)
+
+-jan-
+--
+Jan L. Peterson
+
+_______________________________________________
+Exmh-users mailing list
+Exmh-users@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-users
+

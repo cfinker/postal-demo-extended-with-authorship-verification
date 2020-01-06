@@ -1,0 +1,47 @@
+I've been playing with an old Dell OptiPlex5110 and decided to attempt to
+build a PentiumMMX optimised Linux on it.
+
+To start, I installed the bare minimum Debian system for compiling programs.
+
+Next I built a custom kernel, since most CPU optimizations are best suited to
+the kernel code.
+
+Next I built X4.2.0 from sources, especially since X make a lot of use of
+matrixes and can also benifit from MMX optimizations. Since the first build,
+I've been encouraged to play with the CVS of both XFree86 and the DRI stuff,
+so I will be re-building X once we get some bugs worked out.
+
+Finally I built KDE3.0BETA1 from sources I had, again to take full advantage
+of the MMX processor.
+
+Can anyone recommend other minimum tools that I should re-build to get even
+more improvements in system performance? I know that not all packages can, or
+do benefit from being built on PentiumMMX rather than the i386 that Debian
+compiles to, but have I covered everything that CAN benefit?
+
+I am wondering if the C, and other libraries should be re-built? Can they
+take advantage of the Pentium and MMX instructions for system performance?
+And would this require re-building gcc as well?
+
+I realise that not everything can benefit from re-compiling. I.E. I doubt I
+would see much system improvement if I re-compile bash, but things like the
+kernel, X and KDE should improve performance.
+
+On a related note, I know I've mentioned here before, but I'm still looking
+for a Slot 1 550Mhz PIII. My regular system is a Dual PII350 and the 440BX
+M/B can take PIII's. I managed to get my hands on one. If I could get another
+I could put the two PIII's into this box and re-compile X to use the
+SSE/Katmai instructions in the PIII. I just don't thing it is worth replacing
+two PII's with one PIII. I know that they are out-of-stock, and I do watch
+the Buy-N-Sell regularly, but short of buying a full PIII system, I've not
+had much luck.
+
+Cheers,
+
+John Gay
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

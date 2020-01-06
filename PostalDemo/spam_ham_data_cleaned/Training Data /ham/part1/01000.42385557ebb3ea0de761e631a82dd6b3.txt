@@ -1,0 +1,23 @@
+On 10 Aug 2002, Gary Lawrence Murphy wrote:
+
+> My uneducated guess is that all they need to jump expensive whitelist
+> walls would be buckshot a spam-laden Klez with a 5-million-addresses
+> mailer; if it finds just one vulnerable host on an Exchange server,
+> through hopping addressbooks across a few degrees of freedom, a world
+> of whitelists are instantly breechable.
+
+You seem to be saying that whitelists are useless, because there are worms
+which can compromise your system, read your address book/whitelist, and
+sent themselves on, compromising a nonnegligible fraction of systems as
+they go along.
+
+While mailing lists can be spam/worm amplifiers, I don't think this is
+true for individual users even today. Moreover, worms which use email as
+vector exist *only* because a single vendor ships mailers with broken
+default settings, and insists to make documents executables. This makes
+for very bad press, and eventually that vendor is going to wise up, and
+stop shipping as many broken wares (or people will switch to more secure
+alternatives, whatever comes first).
+
+http://xent.com/mailman/listinfo/fork
+

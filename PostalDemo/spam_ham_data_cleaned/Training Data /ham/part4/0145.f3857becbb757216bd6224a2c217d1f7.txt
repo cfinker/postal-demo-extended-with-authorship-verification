@@ -1,0 +1,77 @@
+This is a MIME message. If you are reading this text, you
+might want to consider changing to a mail reader that
+understands how to properly display MIME multipart messages.
+
+--Boundary-=_bcea19c9d6337c63081baf1d5ee3466aa
+Content-Type: multipart/alternative; charset = "iso-8859-1";
+boundary="Boundary-=_sb73baa252922041f1e5a038a67575b2a2";
+
+--Boundary-=_sb73baa252922041f1e5a038a67575b2a2
+Content-Type: text/plain; charset = "iso-8859-1";
+Content-Transfer-Encoding: 8bit
+
+If you are seeing this message, please visit http://desktopengineer.com to see the latest stories.
+
+--Boundary-=_sb73baa252922041f1e5a038a67575b2a2
+Content-Type: text/html; charset = "iso-8859-1";
+Content-Transfer-Encoding: 8bit
+
+Desktop Engineers Junk Drawer - Handy Odds N Ends for Windows 98, NT
+and 2000
+
+Desktop Engineer's Junk Drawer
+Headline Mailer!
+
+To subscribe, send a blank
+email to: dejdweekly-subscribe@topica.com
+
+ADVERTISEMENT Discover the Powerful
+Repackaging Capabilities of AdminStudio
+
+Let InstallShield
+show you the easy process for converting packages to MSI by demonstrating an
+application conversion using AdminStudio 3. Get detailed explanations of many
+best practices, and don't miss the Q&A session afterwards. Register Now!
+http://www.installshield.com/0207/DesktopEngineer0723
+
+DesktopEngineer.com Giving Away $200 Submission Of The
+Month Award Friday, July 12 2002 @ 07:41 AM EDT by Darwin_Sanoy
+How about a little cash to buy something really cool? Send us
+those tips!
+http://desktopengineer.com/article.php?story=20020718005048357
+Microsoft Webcast: WMIC: Managing Windows from a Command Line (07/24/02
+@ 10am PST) Thursday, July 11 2002 @ 11:22 AM EDT by Darwin_Sanoy
+WMI is the powerful management API Microsoft built into Windows
+2000. Getting scripted access to this management functionality can not be done
+through shell scripts - until WMIC was released with XP.
+http://desktopengineer.com/article.php?story=20020718002155930
+
+Wise Black Belt Series: Application Isolation Webinar Wednesday,
+July 10 2002 @ 06:12 AM EDT by Darwin_Sanoy
+Session: Application Isolation and Windows Installer This
+webinar covered how .LOCAL and .NET (Manifests) isolation work. Webinar
+included demonstrations of both isolation technologies for traditional
+applications.
+http://desktopengineer.com/article.php?story=2002071415404212
+Nice Linksys 4 Port USB Mini-Hub for $11.65 at Buy.com Tuesday,
+July 09 2002 @ 07:55 AM EDT by Darwin_Sanoy
+This is a great prices for four ports!
+http://desktopengineer.com/article.php?story=20020718005709995
+
+ADVERTISEMENT Discover the Powerful
+Repackaging Capabilities of AdminStudio
+
+Let InstallShield
+show you the easy process for converting packages to MSI by demonstrating an
+application conversion using AdminStudio 3. Get detailed explanations of many
+best practices, and don't miss the Q&A session afterwards. Register Now!
+http://www.installshield.com/0207/DesktopEngineer0723
+
+Copyright © 2002
+Desktop Engineers Junk Drawer, ISSN: 1522-7693 All trademarks and
+copyrights on this page are owned by their respective owners.
+
+--Boundary-=_sb73baa252922041f1e5a038a67575b2a2--
+
+--Boundary-=_bcea19c9d6337c63081baf1d5ee3466aa--
+

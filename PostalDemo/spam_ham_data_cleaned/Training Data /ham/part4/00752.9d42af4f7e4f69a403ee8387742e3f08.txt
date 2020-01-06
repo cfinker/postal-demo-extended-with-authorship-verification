@@ -1,0 +1,12 @@
+Yet another pre-interview query. I don't know a thing about them that
+isn't on their mostly-uninformative web site. Charles River Ventures led
+a $10 million round of financing in January of this year.
+
+One of their techie founders wrote a paper on a protocol to allow
+out-of-order image chunk delivery for image types that can be rendered
+that way.
+
+Eirikur
+
+http://xent.com/mailman/listinfo/fork
+

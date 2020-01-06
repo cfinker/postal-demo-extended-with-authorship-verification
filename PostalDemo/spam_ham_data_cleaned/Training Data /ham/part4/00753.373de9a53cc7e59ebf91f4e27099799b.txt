@@ -1,0 +1,11 @@
+Interesting project involving geospatial data for mostly governmental uses.
+They have a deep understanding of geospatial data needs for several
+government agencies. The project infrastructure is centralized, and has been
+used in the field on several projects.
+
+http://dg.statlab.iastate.edu/dg/research/
+
+- Jim
+
+http://xent.com/mailman/listinfo/fork
+

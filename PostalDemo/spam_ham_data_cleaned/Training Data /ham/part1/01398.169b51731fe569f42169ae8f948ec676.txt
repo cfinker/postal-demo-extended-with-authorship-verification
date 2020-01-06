@@ -1,0 +1,74 @@
+>>>>> "SM" == Skip Montanaro writes:
+
+Jeremy> Put another way, I'd be interested to hear why you don't
+Jeremy> want to use ZODB.
+
+SM> Disclaimer: I'm not saying I don't want to use ZODB. I'm
+SM> offering some reasons why it might not be everyone's obvious
+SM> choice.
+
+But you're not saying you do want to use ZODB, so you're still part of
+the problem .
+
+SM> For most of us who have *any* experience with ZODB it's probably
+SM> all indirect via Zope, so there are probably some inaccurate
+SM> perceptions about it. These thoughts that have come to my mind
+SM> at one time or another:
+
+SM> * How could a database from a company (Zope) whose sole business
+SM> is not databases be more reliable than a database from
+SM> organizations whose sole raison d'etre is databases
+SM> (Sleepycat, Postgres, MySQL, ...)?
+
+I don't think I could argue that ZODB is more reliable that
+BerkeleyDB. It's true that we have fewer database experts and expend
+fewer resources working on database reliability. On the other hand,
+Barry is nearly finished with a BerkeleyDB-based storage for ZODB.
+
+ZODB is an object persistence tool that uses a database behind it.
+You can use our FileStorage or you can use someone else's database,
+although BerkeleyDB is the best we can offer at the moment. (It would
+be really cool to do a Postgres storage...)
+
+SM> * Dealing with Zope's monolithic system is frustrating to people
+SM> (like me) who are used to having files reside in
+SM> filesystems. Some of that frustration probably carries
+SM> over to ZODB, though it's almost certainly not ZODB's
+SM> problem.
+
+This sounds like a Zope complaint that doesn't have anything to do
+with ZODB, but maybe I misunderstand you. You don't have to store
+your code in the database, although that will be mostly possible in
+ZODB4.
+
+Seriously, ZODB stores object pickles in a database. The storage
+layer is free to manage those pickles however it likes. FileStorage
+uses a single file. Toby Dickenson's DirectoryStorage represents each
+pickle as a separate file.
+
+SM> * It seems to grow without bound, else why do I need to pack my
+SM> Data.fs file every now and then?
+
+It grows without bound unless you pack it. Why is that a problem?
+BerkeleyDB log files grow without bound, too. Databases require some
+tending. One possibility with FileStorage is to add an explicit
+pack() call to update training operation. We'd need to think
+carefully about the performance impact.
+
+SM> Also, there is the issue of availability. While it's just an
+SM> extra install, its use requires more than the usual Python
+SM> install. Having it in the core distribution would provide
+SM> stronger assurances that it runs wherever Python runs (e.g.,
+SM> does it run on MacOS 8 or 9, both of which I believe Jack still
+SM> supports with his Mac installer?).
+
+I think we'd want a spambayes installer that packaged up spambayes,
+python, and zodb.
+
+Jeremy
+
+_______________________________________________
+Spambayes mailing list
+Spambayes@python.org
+http://mail.python.org/mailman/listinfo/spambayes
+

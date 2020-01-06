@@ -1,0 +1,14 @@
+On Wed, Jul 31, 2002 at 04:24:17PM +0100, Kenn Humborg mentioned:
+> man sysctl
+> # sysctl -p
+
+Ah right. Actually, sysctl -a was more helpful - shows why setting
+sys.fs.files-nr didn't work..
+
+KAte
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

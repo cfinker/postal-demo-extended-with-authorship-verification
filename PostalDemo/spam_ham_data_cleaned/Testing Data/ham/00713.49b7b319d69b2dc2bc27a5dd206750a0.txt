@@ -1,0 +1,9 @@
+In a message dated 7/23/2002 8:45:18 PM, ejw@cse.ucsc.edu writes:
+
+>Pastry is a generic, scalable and efficient substrate for peer-to-peer
+>applications. Pastry nodes form a decentralized, self-organizing and
+>fault-tolerant overlay network within the Internet.
+
+Is it made with lard, butter, or vegetable shortenings?
+http://xent.com/mailman/listinfo/fork
+

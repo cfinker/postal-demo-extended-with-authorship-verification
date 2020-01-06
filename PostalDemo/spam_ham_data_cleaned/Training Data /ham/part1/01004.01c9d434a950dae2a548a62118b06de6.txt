@@ -1,0 +1,17 @@
+>>>>> "E" == Eugen Leitl writes:
+
+E> ... Moreover, worms which use email as vector exist *only*
+E> because a single vendor ships mailers with broken default
+E> settings, and insists to make documents executables. This makes
+E> for very bad press, and eventually that vendor is going to wise
+E> up, and stop shipping as many broken wares
+
+Do you suppose any of us will live long enough to see such a day?
+
+--
+Gary Lawrence Murphy TeleDynamics Communications Inc
+Business Innovations Through Open Source Systems: http://www.teledyn.com
+"Computers are useless. They can only give you answers."(Pablo Picasso)
+
+http://xent.com/mailman/listinfo/fork
+

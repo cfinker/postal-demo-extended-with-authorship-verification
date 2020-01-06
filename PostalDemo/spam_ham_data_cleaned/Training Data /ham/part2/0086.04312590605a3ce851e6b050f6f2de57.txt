@@ -1,0 +1,202 @@
+Jobs touts OS X, iPods, iMac
+
+Search
+
+News.com
+All CNET
+The Web
+
+Live tech help NOW!
+April's tech award
+1 million open jobs
+News.com: Top CIOs
+ZDNet: PeopleSoft
+
+July 17, 2002
+
+Jobs touts OS X, iPods, iMac
+
+Scient files for Chapter 11
+
+Yahoo Mail puts words in your mouth
+
+Unisys splits Intel server line
+
+Microsoft sweetens Mac Office offer
+
+New chip may portend ATI comeback
+
+Perspectives
+
+Why free downloads help, not hurt
+Recording artist Janis Ian argues that file swapping could actually help the industry, and its musicians.
+Read Full Story
+
+Jobs touts OS X, iPods, iMac
+
+NEW YORK--Apple Computer CEO Steve Jobs on Wednesday defended the company's switch to the Mac OS X operating system and unveiled new iPod digital-audio players and a new flat-panel iMac.
+Jobs used his keynote speech at the Macworld trade show here to make a flurry of other announcements as well, such as details about new syncing software, the next update to OS X and the end of free iTools.
+
+The most dramatic announcement focused on iPod. The new players include ones built specifically for computers that use Microsoft's Windows operating system.
+
+July 17, 2002, 8:30 AM PT
+|
+
+Read Full Story
+
+Scient files for Chapter 11
+
+Internet consulting firm Scient has filed for Chapter 11 bankruptcy and agreed to sell certain assets to a professional services firm.
+The deal calls for Salt Lake City-based SBI to hire some of Scient's employees and to provide up to $4.9 million in financing, pending completion of the asset acquisition.
+
+Scient has been struggling for some time now. Once a dot-com darling, the company recently approved a 1-for-20 reverse stock split.
+
+The company and SBI said they expect the bankruptcy court to approve the deal, adding that financing "will allow Scient to continue to deliver services to its clients without interruption until court approval of SBI's acquisition is received."
+
+July 17, 2002, 8:30 AM PT
+|
+
+Read Full Story
+
+Yahoo Mail puts words in your mouth
+
+What does Yahoo Mail have against mocha?
+That's what users of the company's free e-mail service may be wondering if they try to send a message using the word "mocha" and discover that while in transit, "mocha" mysteriously changes to "espresso."
+
+To protect users from malicious code, Yahoo uses an automated filter to swap out a handful of words such as "mocha" that pertain to Web code known as JavaScript.
+
+The reason is that e-mail sent in a form known as "Web enhanced" can contain JavaScript instructions that can run programs on the recipient's PC. JavaScript is a Web language that can issue commands such as telling the browser to open up other windows or to prompt a service to change a password, for example.
+
+July 17, 2002, 4:00 AM PT |
+
+Read Full Story
+
+Unisys splits Intel server line
+
+Unisys, a specialist in high-end servers, is coming out with a new lower-cost line of Intel-based servers as it gears up to promote the Itanium 2 chip.
+Unisys' new Aries servers accommodate as many as 16 Itanium 2 or Xeon processors and cost between $75,000 and $300,000, said Mark Fevertson, Unisys' vice president of server marketing. It joins the Orion line, which can use up to 32 Xeon or Itanium 2 processors and has been on sale for about two years at a cost between $140,000 and $700,000.
+
+July 17, 2002, 10:40 AM PT
+|
+
+Read Full Story
+
+Microsoft sweetens Mac Office offer
+
+With sales of its Office suite for Mac OS X falling short of projections, Microsoft plans on Wednesday to announce a rebate for those who buy the software bundle when they pick up a new Mac.
+The promotion, which runs through Sept. 30, entails a $50 mail-in rebate for people buying a new Mac and upgrading to Office v. X, and $100 for those buying a Mac and the full version of the software. Microsoft is also offering two new pieces of downloadable software: one that lets Palm handhelds synchronize directly with Office v. X and another that lets the Macintosh view programs running on a Windows PC or server.
+
+July 17, 2002, 3:00 AM PT
+|
+
+Read Full Story
+
+New chip may portend ATI comeback
+
+ATI, once the leader in graphics chips, will launch its comeback bid this week with a new chip that experts say could put the company back in front in terms of performance.
+The Markham, Ontario-based company on Thursday will unveil the details of the Radeon 9700, a desktop graphics chip based on a new architecture that will provide greater realism when it comes to 3D images, according to sources.
+
+The fastest versions of the new chips will offer considerably higher performance than Nvidia's current GeForce4 roster, giving ATI the edge with gamers as well as PC makers, analysts said. And even after Nvidia--which began to chip away at ATI's leading spot in graphics in 1999--comes out with its GeForce 5 in a few months, the competition between the two will remain close.
+
+July 17, 2002, 4:00 AM PT
+|
+
+Read Full Story
+
+From our partners:
+
+Truth is in the iMac of the beholder
+
+Business Week
+
+It's silly of Apple to try to squelch Internet rumors about its next moves. Jobs & Co. should rejoice that fans care enough to gossip.
+
+July 17, 2002
+|
+
+Read Full Story
+
+eBags carries it off
+
+Business Week
+
+The dot-com boom's big spenders couldn't buy success, but this online luggage vendor survived by making frugality its watchword.
+
+July 17, 2002
+|
+
+Read Full Story
+
+Also from CNET:
+
+Real-time stock quotes from CNET News.com Investor.30-day free trial!
+
+Digicams for summer shutterbugsGoing on vacation, or just headed to the beach? Indulge your summer snapshot habit with one of our picks.
+
+ 5-megapixel shoot-out
+ Leica Digilux 1: street shooter"s digicam
+
+Most popular products
+Digital cameras
+1. Canon PowerShot G2
+2. Canon PowerShot S40
+3. Canon PowerShot S30
+4. Canon PowerShot A40
+5. Nikon Coolpix 995
+See all most popular cameras
+
+Jobs presents iMac's new face
+In his Macworld 2002 keynote, Apple CEO Steve Jobs shows off a new 17-inch flat-panel iMac.
+Watch Video
+
+Enterprise
+
+CA replaces four board members
+
+HP ousts workers for e-mail abuse
+
+Group offers computer security standard
+
+E-Business
+
+VC-backed companies fusing forces
+
+Markets edge up on Intel news
+
+uBid to charge listing fees to sellers
+
+Communications
+
+Tellabs warns of "murky" sales future
+
+Banks seek freeze on WorldCom funds
+
+Motorola's net loss worst ever
+
+Media
+
+Net watchdog blasts China Web rules
+
+Yahoo strikes listing deal with CityFeet
+
+Eleven vie for .org name
+
+Personal Technology
+
+Apple to charge for iTools services
+
+Apple meets lowered expectations
+
+Moxi moves into cable boxes
+
+The e-mail address for your subscription is qqqqqqqqqq-cnet-newsletters@example.com
+Unsubscribe | Manage My Subscriptions | FAQ | AdvertisePlease send any questions, comments, or concerns to dispatchfeedback@news.com.
+
+Price comparisons |
+Product reviews |
+Tech news |
+Downloads |
+All CNET services
+
+Copyright 2002 CNET Networks, Inc. All rights reserved.
+

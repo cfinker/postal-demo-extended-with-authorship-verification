@@ -1,0 +1,23 @@
+Harlan Feinstein said:
+
+> In particular, I was going to have a menu entry available for:
+> o remove the SA markup from a message
+> o add/remove addresses to whitelist
+> Help! :-) I've never done customization of this type to my exmh install.
+> I'm running version 2.4 (6/23/2000) on RedHat 7.3
+
+Despite being the author of SpamAssassin, I've never fixed exmh to do
+this. I am therefore clearly not an exmh hacker ;)
+
+But to simplify -- the first action is piping the message to an external
+command, then replacing the message file with the output; and the second
+is simply piping the message to another command, then ignoring the output.
+I'd say it's easy enough to do, if someone can provide the tcl.
+
+--j.
+
+_______________________________________________
+Exmh-users mailing list
+Exmh-users@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-users
+

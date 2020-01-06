@@ -1,0 +1,20 @@
+If you run Pick, and then use the "New FTOC" button to show only
+those messages selected by pick, then the ftoc display was considered
+"invalid" in the old code. This prevented the display from being cached,
+and it meant that you could get back to the full folder display by
+clicking on the folder lablel. That doesn't work anymore. You have
+to resort to Rescan Folder. In fact, when you change folders you
+continue to have the Pick results, not the new folder contents.
+If you go to a any folder and do Rescan, then it heals itself.
+--
+Brent Welch
+Software Architect, Panasas Inc
+Pioneering the World's Most Scalable and Agile Storage Network
+www.panasas.com
+welch@panasas.com
+
+_______________________________________________
+Exmh-workers mailing list
+Exmh-workers@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-workers
+

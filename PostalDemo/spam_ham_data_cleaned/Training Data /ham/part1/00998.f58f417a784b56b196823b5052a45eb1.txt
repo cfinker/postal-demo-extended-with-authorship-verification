@@ -1,0 +1,25 @@
+Gary Lawrence Murphy writes:
+> This is for the whitelist fans: Can someone please tell us why the
+> following extremely frequent spam header pattern would _not_ pass a
+> whitelist test? The letter itself is most certainly spam/viral and
+> was most certainly not sent by me, but I see no way you might tell
+> that it was not, nor can I see how I might charge the sender with
+> fraud for having 'impersonated' my account.
+
+If you crypto-sign your outgoing mail, you don't have to set
+your mailwall whitelist to accept unsigned mail spoofed as being
+from you.
+
+Similarly, if you include some weaker token or checksum that
+spammers can't easily guess.
+
+If you can track the actual sender, then the proof that they've
+committed identity fraud is your credible testimony that you
+are the rightful user of the declared originating address, and
+that you did not send the message. I'm not sure what level of
+damages you could claim, though.
+
+- Gordon
+
+http://xent.com/mailman/listinfo/fork
+

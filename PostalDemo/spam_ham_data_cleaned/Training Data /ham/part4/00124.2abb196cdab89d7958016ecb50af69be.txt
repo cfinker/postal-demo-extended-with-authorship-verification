@@ -1,0 +1,13 @@
+hi all,
+I installed gentoo 1.2 with gnome2 but when right click on the desktop
+and under disks i get not options, What file(s) do i have to edit to
+get this option enabled.
+Any ideas ?.
+regards,
+Nils
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

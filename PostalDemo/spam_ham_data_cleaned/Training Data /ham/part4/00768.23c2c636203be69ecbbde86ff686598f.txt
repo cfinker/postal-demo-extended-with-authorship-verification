@@ -1,0 +1,10 @@
+On Mon, 5 Aug 2002, Stephen D. Williams wrote:
+
+> Obviously you need a server at 127.0.0.1 that serves well known cookies...
+
+Well known *one-time* cookies?
+
+> The arms race continues.
+
+http://xent.com/mailman/listinfo/fork
+

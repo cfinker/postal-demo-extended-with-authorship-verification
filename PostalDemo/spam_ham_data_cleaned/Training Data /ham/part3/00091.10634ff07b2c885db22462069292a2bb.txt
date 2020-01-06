@@ -1,0 +1,23 @@
+On July 21, paul@clubi.ie said:
+>
+> reiser's handles to files are hashes i believe. fat: dont think you
+> can make symlinks on it.
+
+You can't; hard links only. And those get cleaned up by ScanDisk as
+"cross-linked files". Shortcuts are the Windows analogue of symlinks,
+and they don't work outside the Windows environment - i.e. they're an
+artifact of the OS rather than the FS.
+
+Cheers.
+Waider.
+--
+waider@waider.ie / Yes, it /is/ very personal of me.
+"if you can't live the lie, let it die/and if you can't live a life filled
+with strife/honey, just say oops/and jump through hoops/and get to the end of
+the line" - FLC, "Bear Hug" (Come Find Yourself)
+
+--
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+

@@ -1,0 +1,10 @@
+On Sun, 11 Aug 2002, Gordon Mohr wrote:
+
+> If you crypto-sign your outgoing mail, you don't have to set your
+> mailwall whitelist to accept unsigned mail spoofed as being from you.
+
+Users don't like entering passphrases when sending email. USB fobs, smart
+cards or other removable hardware are not yet widespread.
+
+http://xent.com/mailman/listinfo/fork
+
