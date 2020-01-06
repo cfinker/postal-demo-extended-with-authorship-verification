@@ -1,142 +1,28 @@
+# iOS mail (prototype) app with AI based on Postal framework
 
-![](Documentation/logo.jpg)
+This project is a prototpye of an iOS mail client which uses machine learning (uClassify and Core ML 3) for authorship verification. The whole project is based on the framework Postal.
 
-[![Build Status](https://travis-ci.org/snipsco/Postal.svg?branch=master)](https://travis-ci.org/snipsco/Postal)
-[![Carthage](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![Pods](https://img.shields.io/badge/Pods-compatible-4BC51D.svg?style=flat)](https://cocoapods.org/)
-[![Swift 4.0.x](https://img.shields.io/badge/Swift-4.0.x-orange.svg?style=flat)](https://swift.org/)
-![Platforms](https://img.shields.io/badge/platforms-iOS%20%7C%20macOS-lightgrey.svg?style=flat)
+## Repo structure
 
-Postal is a swift framework providing simple access to common email providers.
+Since the further developement of iOS as well as the Postal framework, which have been not always in sync, this repo contain the Postal source code (at the state of Februrary 2019) as well as the extended Postal-Demo app, which is my prototype. This prototype is not working without any issues whith the currently state of the Postal's master branch. This is the reason why the Postal source code is in this repo too.
 
-## Example
+All folder and files on the root level are Postal folders and files. Basically also the PostalDemo folder was once a original Postal folder, but I extended this folder with some files and folders in order to create my mail authorship verification prototpye.
 
-### Connect
+## How to run the prototpye or to open its source code?
+If you want to run or have a closer look on the prototype, you should go into the PostalDemo folder on open the [PostalDemo.xcodeproj](https://github.com/cfinker/postal-demo-extended-with-authorship-verification/tree/master/PostalDemo/PostalDemo.xcodeproj "PostalDemo.xcodeproj") file with xCode (at least xCode 11 and at least macOS 10.14). Since all dependencies are as well part of this repo (namely its the Postal framework), the project should build and run in xCode without any fruther required commands. It could be that xCode does not recognize on start up that all source code has been translated to Swift 5 and that it will display some warning. You can ignore this warning, and once the index of xCode has finished, it will recognize that there is no reason to warn. 
 
-```swift
-let postal = Postal(configuration: .icloud(login: "myemail@icloud.com", password: "mypassword"))
-postal.connect { result in
-    switch result {
-    case .success:
-        print("success")
-    case .failure(let error):
-        print("error: \(error)")
-    }
-}
-```
+## What machine learning is used?
+The app uses Core ML 4. Therefore iOS 13 is required (for on-device training).
+The uses uClassify as well, with a daily limit of max. 500 requests per day.
 
-### Search
+## Further information and contact
+This project is supported by netidee: 
+https://www.netidee.at/mail-authorship-verification-and-phishing-recognizing-machine-learning-ios
+As soon as my master thesis is finished, some more details of the usage of this prototype, can be found on the netidee-website. The master thesis with all evaluation results and interessting implementation details will be published there.
 
-```swift
-let filter = .subject(value: "Foobar") && .from(value: "foo@bar.com")
-postal.search("INBOX", filter: filter) { result in
-    switch result {
-    case .success(let indexes):
-        print("success: \(indexes)")
-    case .failure(let error):
-        print("error: \(error)")
-    }
-}
-```
+Developer: Christian Finker, IMS18, FH Joannuem (IT- and Mobile Security)
+Website of developer: https://webrabbit.at
 
-### Fetch
-
-```swift
-let indexset = NSIndexSet(index: 42)
-postal.fetchMessages("INBOX", uids: indexset, flags: [ .headers ], onMessage: { email in
-    print("new email received: \(email)")
-}, onComplete: error in
-    if error = error {
-        print("an error occured: \(error)")
-    }
-}
-```
-
-### Want to debug your IMAP session ?
-
-```swift
-postal.logger = { log in
-    print(log)
-}
-```
-
-### What about Mailcore ?
-
-Postal does not address the same goal as MailCore. You can take a look at our thoughts in the [TechnicalNotes][] document.
-
-### Provider quirks
-
-Email protocol is standardized. However providers implementations often provides extension or variations of these standards.
-We tried to build a document to synthesize working around these variations here: [ProviderQuirks][].
-
-### Contributing
-
-Postal has been a great effort and we could really use your help on many areas:
-
-- Finding and reporting bugs.
-- New feature suggestions.
-- Answering questions on issues.
-- Documentation improvements.
-- Reviewing pull requests.
-- Fixing bugs/new features.
-- Improving tests.
-- Contribute to elaborate the [Roadmap][].
-
-If any of that sounds cool to you, please send a pull request!
-
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms that you can find here: [CodeOfConduct][].
-
-## Requirements
-
-- Xcode 9
-- OS X 10.10 or later
-- iOS 8.0 or later
-
-## Installation
-
-### Carthage
-
-Postal is [Carthage](https://github.com/Carthage/Carthage) compatible.
-
-- Add `github "snipsco/Postal"` to your Cartfile.
-- Run `carthage update`.
-
-### CocoaPods
-
-Postal also can be used by [CocoaPods](https://cocoapods.org/).
-
-- Add the followings to your Podfile:
-
-    ```ruby
-    use_frameworks!
-    pod 'Postal'
-    ```
-
-    - For ReactiveSwift extensions, this project will include them as dependencies. You can do this via CocoaPods subspecs.
-
-	```ruby
-	pod 'Postal/ReactiveSwift'
-	```
-
-- Run `pod install`. 
-
-### Manual
-
-1. Add the Postal repository as a [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) of your application’s repository.
-	
-	```bash
-	git submodule add https://github.com/snipsco/Postal.git
-	git submodule update --init --recursive
-	```
-1. Drag and drop `Postal.xcodeproj` and `Carthage/Checkouts/Result/Result.xcodeproj` into your application’s Xcode project or workspace.
-1. On the “General” tab of your application target’s settings, add `Postal.framework` and `Result.framework` to the “Embedded Binaries” section.
-1. If your application target does not contain Swift code at all, you should also set the `EMBEDDED_CONTENT_CONTAINS_SWIFT` build setting to “Yes”.
-
-## License
-
-Postal is released under the [MIT License](LICENCE.md).
-
-[Roadmap]: Documentation/Roadmap.md
-[TechnicalNotes]: Documentation/TechnicalNotes.md
-[ProviderQuirks]: Documentation/ProviderQuirks.md
-[CodeOfConduct]: Documentation/CodeOfConduct.md
+### Links to used frameworks and web services
+Postal: https://github.com/snipsco/Postal
+uClassify: http://uclassify.com
