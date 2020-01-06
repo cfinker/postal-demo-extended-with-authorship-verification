@@ -13,16 +13,15 @@ If you want to run or have a closer look on the prototype, you should go into th
 
 ## What machine learning is used?
 The app uses Core ML 4. Therefore iOS 13 is required (for on-device training).
-The uses uClassify as well, with a daily limit of max. 500 requests per day.
+It uses uClassify as well, with a daily limit of max. 500 requests per day.
 
 ## Further information and contact
 This project is supported by netidee: 
 https://www.netidee.at/mail-authorship-verification-and-phishing-recognizing-machine-learning-ios
+
 As soon as my master thesis is finished, some more details of the usage of this prototype, can be found on the netidee-website. The master thesis with all evaluation results and interessting implementation details will be published there.
 
-Developer: Christian Finker, IMS18, FH Joannuem (IT- and Mobile Security)
-Website of developer: https://webrabbit.at
+Developer: Christian Finker, IMS18, FH Joannuem (IT- and Mobile Security; Website of developer: https://webrabbit.at
 
 ### Links to used frameworks and web services
-Postal: https://github.com/snipsco/Postal
-uClassify: http://uclassify.com
+Postal: https://github.com/snipsco/Postal and uClassify: http://uclassify.com
