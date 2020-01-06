@@ -1,0 +1,21 @@
+{
+  "Mac" : [
+    {
+      "name" : "Postal",
+      "hash" : "caeb0642d56c1754d07818fd7ce4f0f8a604931e907ad1c8114712239be03df7"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "v0.5.0",
+  "iOS" : [
+    {
+      "name" : "Postal",
+      "hash" : "df3f4c9e9f47f4941994f38802a5cc87d307b88646e5e27ee439872fdb044fb3"
+    }
+  ]
+}

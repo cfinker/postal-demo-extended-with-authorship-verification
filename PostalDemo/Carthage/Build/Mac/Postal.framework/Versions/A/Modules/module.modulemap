@@ -1,0 +1,11 @@
+framework module Postal {
+  umbrella header "Postal.h"
+
+  export *
+  module * { export * }
+}
+
+module Postal.Swift {
+    header "Postal-Swift.h"
+    requires objc
+}
