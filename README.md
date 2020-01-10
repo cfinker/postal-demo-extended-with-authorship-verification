@@ -21,7 +21,7 @@ https://www.netidee.at/mail-authorship-verification-and-phishing-recognizing-mac
 
 As soon as my master thesis is finished, some more details of the usage of this prototype, can be found on the netidee-website. The master thesis with all evaluation results and interessting implementation details will be published there.
 
-Developer: Christian Finker, IMS18, FH Joannuem (IT- and Mobile Security; Website of developer: https://webrabbit.at
+Developer: Christian Finker, IMS18, FH Joannuem (IT- and Mobile Security); Website of developer: https://webrabbit.at
 
 ### Links to used frameworks and web services
 Postal: https://github.com/snipsco/Postal and uClassify: http://uclassify.com
