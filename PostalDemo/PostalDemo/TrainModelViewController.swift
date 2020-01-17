@@ -101,7 +101,13 @@ class TrainModelViewController: UITableViewController {
         let url = URL(string: "https://api.uclassify.com/v1/me/")!
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
-        request.addValue("Token f6HQtYfYlzUx", forHTTPHeaderField: "Authorization")
+        guard let infoDictionary = Bundle.main.infoDictionary else {
+            fatalError("Plist file not found")
+        }
+        guard let writeToken = infoDictionary["UCLASSIFY_WRITE_KEY"] as? String else {
+            fatalError("UCLASSIFY_WRITE_KEY Key not set in plist for this environment")
+        }
+        request.addValue("Token " + writeToken, forHTTPHeaderField: "Authorization")
         request.addValue("application/json", forHTTPHeaderField: "Content-Type")
         // insert json data to the request
         request.httpBody = jsonData
@@ -120,11 +126,22 @@ class TrainModelViewController: UITableViewController {
     }
     
     func getClassiferInformation() {
+        guard let infoDictionary = Bundle.main.infoDictionary else {
+            fatalError("Plist file not found")
+        }
+        guard let readToken = infoDictionary["UCLASSIFY_READ_KEY"] as? String else {
+            fatalError("UCLASSIFY_READ_KEY Key not set in plist for this environment")
+        }
+        guard let user = infoDictionary["UCLASSIFY_USER_API"] as? String else {
+            fatalError("UCLASSIFY_USER_API Key not set in plist for this environment")
+        }
+               
         // create get request
-        let url = URL(string: "https://api.uclassify.com/v1/webrabbit/" + self.classiferName)!
+        let url = URL(string: "https://api.uclassify.com/v1/" + user + "/" + self.classiferName)!
         var request = URLRequest(url: url)
         request.httpMethod = "GET"
-        request.addValue("Token W2tWoQIpqK0P", forHTTPHeaderField: "Authorization")
+    
+        request.addValue("Token " + readToken , forHTTPHeaderField: "Authorization")
         request.addValue("application/json", forHTTPHeaderField: "Content-Type")
         
         let semaphore = DispatchSemaphore(value: 0)
@@ -169,7 +186,13 @@ class TrainModelViewController: UITableViewController {
         let url = URL(string: "https://api.uclassify.com/v1/me/" + self.classiferName + "/addClass")!
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
-        request.addValue("Token f6HQtYfYlzUx", forHTTPHeaderField: "Authorization")
+        guard let infoDictionary = Bundle.main.infoDictionary else {
+            fatalError("Plist file not found")
+        }
+        guard let writeToken = infoDictionary["UCLASSIFY_WRITE_KEY"] as? String else {
+            fatalError("UCLASSIFY_WRITE_KEY Key not set in plist for this environment")
+        }
+        request.addValue("Token " + writeToken, forHTTPHeaderField: "Authorization")
         request.addValue("application/json", forHTTPHeaderField: "Content-Type")
         // insert json data to the request
         request.httpBody = jsonData
@@ -234,7 +257,13 @@ class TrainModelViewController: UITableViewController {
         let url = URL(string: "https://api.uclassify.com/v1/me/" + self.classiferName + "/" + selectedSender + "/train")!
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
-        request.addValue("Token f6HQtYfYlzUx", forHTTPHeaderField: "Authorization")
+        guard let infoDictionary = Bundle.main.infoDictionary else {
+            fatalError("Plist file not found")
+        }
+        guard let writeToken = infoDictionary["UCLASSIFY_WRITE_KEY"] as? String else {
+            fatalError("UCLASSIFY_WRITE_KEY Key not set in plist for this environment")
+        }
+        request.addValue("Token " + writeToken, forHTTPHeaderField: "Authorization")
         request.addValue("application/json", forHTTPHeaderField: "Content-Type")
         // insert json data to the request
         request.httpBody = jsonData

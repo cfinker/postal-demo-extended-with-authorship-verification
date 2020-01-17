@@ -67,7 +67,7 @@ class MailDetailViewController: UIViewController {
                 self.authorUClassify.text = "\(self.getClassifyAuthorInformation(bodyText: self.bodyTextView.text))"
                  self.authorCoreML.text = "\(self.getCoreMLPredictionAuthorship(bodyText: self.bodyTextView.text))"
                 self.spamCoreML.text = "\(self.getCoreMLPrediction(bodyText: self.bodyTextView.text))"
-                self.spamUClassify.text = "\(self.getClassifyInformationRequest(bodyText: self.bodyTextView.text, classifierName: "MailSpamClassifier", user: "webrabbit"))"
+                self.spamUClassify.text = "\(self.getClassifyInformationRequest(bodyText: self.bodyTextView.text, classifierName: "MailSpamClassifier", user: ""))"
                 self.languageUClassify.text = "\(self.getClassifyInformationRequest(bodyText: self.bodyTextView.text, classifierName: "language-detector", user: "uclassify"))"
                 self.moodUClassify.text = "\(self.getClassifyInformationRequest(bodyText: self.bodyTextView.text, classifierName: "sentiment", user: "uclassify"))"
                 self.genderUClassify.text = "\(self.getClassifyInformationRequest(bodyText: self.bodyTextView.text, classifierName: "genderanalyzer_v5", user: "uclassify"))"
@@ -101,20 +101,33 @@ class MailDetailViewController: UIViewController {
     }
     
     func getClassifyAuthorInformation(bodyText: String) -> String {
-        return self.getClassifyInformationRequest(bodyText: bodyText, classifierName: self.classiferName, user: "webrabbit")
+        return self.getClassifyInformationRequest(bodyText: bodyText, classifierName: self.classiferName, user: "")
         }
     
     func getClassifyInformationRequest(bodyText: String, classifierName: String, user: String) -> String {
+        var uClassifyUser = user;
+        guard let infoDictionary = Bundle.main.infoDictionary else {
+          fatalError("Plist file not found")
+        }
+        guard let readToken = infoDictionary["UCLASSIFY_READ_KEY"] as? String else {
+          fatalError("UCLASSIFY_READ_KEY Key not set in plist for this environment")
+        }
+        if(user == "") {
+            guard let userConfig = infoDictionary["UCLASSIFY_USER_API"] as? String else {
+              fatalError("UCLASSIFY_USER_API Key not set in plist for this environment")
+            }
+            uClassifyUser = userConfig;
+        }
+        
         // prepare json data
         let json: [String: Any] = ["texts":[bodyText]]
-        
         let jsonData = try? JSONSerialization.data(withJSONObject: json)
         
         // create get request
-        let url = URL(string: "https://api.uclassify.com/v1/" + user + "/" + classifierName + "/classify")!
+        let url = URL(string: "https://api.uclassify.com/v1/" + uClassifyUser + "/" + classifierName + "/classify")!
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
-        request.addValue("Token W2tWoQIpqK0P", forHTTPHeaderField: "Authorization")
+        request.addValue("Token " + readToken , forHTTPHeaderField: "Authorization")
         request.addValue("application/json", forHTTPHeaderField: "Content-Type")
         request.httpBody = jsonData
         
@@ -173,6 +186,13 @@ class MailDetailViewController: UIViewController {
     }
     
     func sendTrainClassRequest(classifierName: String, className: String) {
+        guard let infoDictionary = Bundle.main.infoDictionary else {
+            fatalError("Plist file not found")
+        }
+        guard let writeToken = infoDictionary["UCLASSIFY_WRITE_KEY"] as? String else {
+            fatalError("UCLASSIFY_WRITE_KEY Key not set in plist for this environment")
+        }
+        
         // prepare json data
         let json: [String: Any] = ["texts": [self.bodyTextView.text]]
         
@@ -182,7 +202,7 @@ class MailDetailViewController: UIViewController {
         let url = URL(string: "https://api.uclassify.com/v1/me/" + classifierName + "/" + className + "/train")!
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
-        request.addValue("Token f6HQtYfYlzUx", forHTTPHeaderField: "Authorization")
+        request.addValue("Token " + writeToken, forHTTPHeaderField: "Authorization")
         request.addValue("application/json", forHTTPHeaderField: "Content-Type")
         // insert json data to the request
         request.httpBody = jsonData
